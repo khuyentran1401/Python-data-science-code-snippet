@@ -7,7 +7,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 1. [Data Science Tools](#data-science-tools)
 1. [Terminal](#terminal)
 1. [Cool Tools](#cool-tools)
-1. [Jupyter Notebook](#notebook)
+1. [Jupyter Notebook](#jupyter-notebook)
 
 <h1 id='python'> Python </h1>
 
