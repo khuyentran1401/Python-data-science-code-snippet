@@ -13,7 +13,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| Abstract Classes: Declare Methods without Implementation | [link](https://mathdatasimplified.com/2021/06/08/abstract-classes-declare-methods-without-implementation/)  | [link](./code_snippets/python/abc_example.py) |
+| Abstract Classes: Declare Methods without Implementation | [link](https://mathdatasimplified.com/2021/06/08/abstract-classes-declare-methods-without-implementation/)  | [link](code_snippets/python/abc_example.py) |
 | Shutil: Move Files in Python | [link](https://mathdatasimplified.com/2021/06/03/shutil-move-files-in-python/) | [link](./code_snippets/python/move_files/move_files.py))
 | any: Check if Any Element of an Iterable is True | [link](https://mathdatasimplified.com/2021/06/01/any-check-if-any-element-of-an-iterable-is-true/) | [link](./code_snippets/python/any_example.py)
 
