@@ -9,7 +9,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 1. [Cool Tools](#cool-tools)
 1. [Jupyter Notebook](#notebook)
 
-<h1 id='python'> Statistics </h1>
+<h1 id='python'> Python </h1>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
