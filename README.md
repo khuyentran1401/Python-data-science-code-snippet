@@ -68,8 +68,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | colorls: Beautify your ls Command with Color and Icons | [link](https://mathdatasimplified.com/2021/04/18/colorls-beautify-your-ls-command-with-color-and-icons/)
 | ln -s: Create Symbolic Link Between 2 Files | [link](https://mathdatasimplified.com/2021/04/11/ln-s-create-symbolic-link-between-2-files/) | [link](code_snippets/terminal/create_symbolic_link.sh)
 | fd: a Simple Tool to Search for Files or Directories Fast | [link](https://mathdatasimplified.com/2021/04/09/fd-a-simple-tool-to-search-for-files-or-directories-fast/)
-| tr Command: Translate Characters to Improve Readability In Unix/Linux
- | [link](https://mathdatasimplified.com/2021/04/05/tr-command-translate-characters-to-improve-readability-in-unix-linux/) |[link](code_snippets/terminal/tr_command.sh)
+| tr Command: Translate Characters to Improve Readability In Unix/Linux | [link](https://mathdatasimplified.com/2021/04/05/tr-command-translate-characters-to-improve-readability-in-unix-linux/) |[link](code_snippets/terminal/tr_command.sh)
 
 # Cool Tools
 
