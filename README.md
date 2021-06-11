@@ -32,6 +32,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | slice: Make your Indices more Readable by Naming your Slice | [link](https://mathdatasimplified.com/2021/02/16/slice-make-your-indices-more-readable-by-naming-your-slice/) | [link](code_snippets/python/slice_example.py)
  | pathlib: Create, Write, and Rename Files in One Line of Code | [link](https://mathdatasimplified.com/2021/02/14/pathlib-create-write-and-rename-files-in-one-line-of-code/) | [link](code_snippets/python/pathlib_write)
  | heapq: Find n Max Values of a Python List | [link](https://mathdatasimplified.com/2021/03/28/heapq-find-n-max-values-of-a-python-list/) |[link](code_snippets/python/heapq_example.py)
+ | filter: Get the Elements of an Iterable that a Function Returns True | [link](https://mathdatasimplified.com/2021/06/11/filter-get-the-elements-of-an-iterable-that-a-function-returns-true/) | [link](code_snippets/python/filter_example.py)
 </details>
 
 <details><summary>Pandas</summary>
@@ -63,7 +64,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | snoop : Smart Print to Debug your Python Function | [link](https://mathdatasimplified.com/2021/05/28/snoop-smart-print-to-debug-your-python-function/) | [link](./code_snippets/data_science_tools/snoop_example.py)
-| pytest benchmark: A Pytest Fixture to Benchmark your Code | [link](https://mathdatasimplified.com/2021/05/19/pytest-benchmark-a-pytest-fixture-to-benchmark-your-code/) | [link](code_snippets/python/pytest_benchmark.py)
+| pytest benchmark: A Pytest Fixture to Benchmark your Code | [link](https://mathdatasimplified.com/2021/05/19/pytest-benchmark-a-pytest-fixture-to-benchmark-your-code/) | [link](code_snippets/data_science_tools/pytest_benchmark.py)
 | D-Tale: A Python Library to Visualize and Analyze your Data Without Code | [link](https://mathdatasimplified.com/2021/05/16/d-tale-a-python-library-to-visualize-and-analyze-your-data-without-code/)
 | faker: Create Fake Data in One Line of Code |[link](https://mathdatasimplified.com/2021/05/14/faker-create-fake-data-in-one-line-of-code/)|[link](code_snippets/data_science_tools/faker_example.py)
 | datefinder: Automatically Find Dates and Time in a Python String | [link](https://mathdatasimplified.com/2021/05/08/datefinder-automatically-find-dates-and-time-in-a-python-string/) | [link](code_snippets/data_science_tools/datefinder_example.py)
@@ -81,6 +82,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | rich-dataframe: Create Animated and Colorful Pandas Dataframe | [link](https://mathdatasimplified.com/2021/02/17/rich-dataframe-create-animated-and-colorful-pandas-dataframe/) 
 | add_datepart: Add Relevant DateTime Features in One Line of Code | [link](https://mathdatasimplified.com/2021/02/11/add_datepart-add-relevant-datetime-features-in-one-line-of-code/) | [link](code_snippets/data_science_tools/add_datepart_example.py)
 | github-to-sqlite: Download the Data of your Starred GitHub Repositories in One Command Line | [link](https://mathdatasimplified.com/2021/03/30/github-to-sqlite-download-the-data-of-your-starred-github-repositories-in-one-command-line/)
+| pytest.mark.parametrize: Test your Functions with Multiple Inputs | [link](https://mathdatasimplified.com/2021/06/09/pytest-mark-parametrize-test-your-functions-with-multiple-inputs/) | [link](code_snippets/data_science_tools/pytest_parametrize.py)
 </details>
 
 <details><summary>Terminal</summary>
