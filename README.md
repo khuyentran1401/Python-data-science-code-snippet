@@ -2,15 +2,8 @@
 Source code of Python and data science snippets posted daily at [Data Science Simplified](https://mathdatasimplified.com/).
 
 # Contents
-1. [Python Built-in Methods](#python)
-1. [Pandas](#pandas)
-1. [Numpy](#numpy)
-1. [Data Science Tools](#data-science-tools)
-1. [Terminal](#terminal)
-1. [Cool Tools](#cool-tools)
-1. [Jupyter Notebook](#jupyter-notebook)
-
-<h1 id='python'> Python </h1>
+<details>
+<summary>Python Built-in Methods</summary>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -39,7 +32,9 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | slice: Make your Indices more Readable by Naming your Slice | [link](https://mathdatasimplified.com/2021/02/16/slice-make-your-indices-more-readable-by-naming-your-slice/) | [link](code_snippets/python/slice_example.py)
  | pathlib: Create, Write, and Rename Files in One Line of Code | [link](https://mathdatasimplified.com/2021/02/14/pathlib-create-write-and-rename-files-in-one-line-of-code/) | [link](code_snippets/python/pathlib_write)
  | heapq: Find n Max Values of a Python List | [link](https://mathdatasimplified.com/2021/03/28/heapq-find-n-max-values-of-a-python-list/) |[link](code_snippets/python/heapq_example.py)
-# Pandas
+</details>
+
+<details><summary>Pandas</summary>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -51,14 +46,19 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | assert_frame equal: Test whether Two DataFrames are Similar | [link](https://mathdatasimplified.com/2021/04/15/assert_frame-equal-test-whether-two-dataframes-are-similar/) | [link](code_snippets/pandas/assert_frame_equal.py)
 | pd.Series.str: Manipulate Text Data in a pandas Series | [link](https://mathdatasimplified.com/2021/04/03/pd-series-str-manipulate-text-data-in-a-pandas-series/) | [link](code_snippets/pandas/pd_series_str.py)
 | pd.Series.between: Select Rows in a pandas Series Containing Values between 2 Numbers | [link](https://mathdatasimplified.com/2021/03/03/pd-series-between-obtain-the-rows-with-values-lie-between-2-numbers/) |[link](code_snippets/pandas/pd_series_between.py)
-# Numpy
+</details>
+
+<details><summary>Numpy</summary>
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | np.ravel: Flatten a Numpy Array | [link](https://mathdatasimplified.com/2021/05/18/np-ravel-flatten-a-numpy-array/) | [link](code_snippets/numpy/np_ravel.py)
 | Use List to Change the Positions of Rows or Columns in a Numpy Array | [link](https://mathdatasimplified.com/2021/05/07/use-list-to-change-the-positions-of-rows-or-columns-in-a-numpy-array/) | [link](code_snippets/numpy/use_list_to_change_position_of_arrays.py)
 | Key Parameter in Max(): Find the Key with the Largest Value | [link](https://mathdatasimplified.com/2021/02/19/key-parameter-in-max-find-the-key-with-the-largest-value/) | [link](code_snippets/python/key_in_max.py)
 | Difference between Numpy’s All and Any Methods | [link](https://mathdatasimplified.com/2021/03/31/difference-between-numpys-all-and-any-methods/) | [link](code_snippets/numpy/any_all.py)
-# Data Science Tools
+</details>
+
+<details><summary>Data Science Tools</summary>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -81,7 +81,9 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | rich-dataframe: Create Animated and Colorful Pandas Dataframe | [link](https://mathdatasimplified.com/2021/02/17/rich-dataframe-create-animated-and-colorful-pandas-dataframe/) 
 | add_datepart: Add Relevant DateTime Features in One Line of Code | [link](https://mathdatasimplified.com/2021/02/11/add_datepart-add-relevant-datetime-features-in-one-line-of-code/) | [link](code_snippets/data_science_tools/add_datepart_example.py)
 | github-to-sqlite: Download the Data of your Starred GitHub Repositories in One Command Line | [link](https://mathdatasimplified.com/2021/03/30/github-to-sqlite-download-the-data-of-your-starred-github-repositories-in-one-command-line/)
-# Terminal
+</details>
+
+<details><summary>Terminal</summary>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -96,8 +98,9 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | tee: Save Command Output to a File | [link](https://mathdatasimplified.com/2021/03/06/tee-save-command-output-to-a-file/) | [link](code_snippets/terminal/tee_example.sh)
 | Github CLI: Brings GitHub to your Terminal | [link](https://mathdatasimplified.com/2021/02/21/github-cli-brings-github-to-your-terminal/) | [link](code_snippets/terminal/gh_cli.sh)
 | Bash For Loop: Stop Staring at your Screen. Write a Bash For Loop instead | [link](https://mathdatasimplified.com/2021/03/29/bash-for-loop-stop-staring-at-your-screen-write-a-bash-for-loop-instead/) | [link](code_snippets/terminal/bash_for_loop.sh)
+</details>
 
-# Cool Tools
+<details><summary>Cool Tools</summary>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -111,9 +114,13 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Box: Using Dot Notation to Access Keys in a Python Dictionary | [link](https://mathdatasimplified.com/2021/03/02/box-using-dot-notation-to-access-keys-in-a-python-dictionary/) | [link](code_snippets/cool_tools/box_example.py)
 | github1s: Read GitHub Code with VS Code on your Browser in One Second | [link](https://mathdatasimplified.com/2021/02/15/github1s-read-github-code-with-vs-code-on-your-browser-in-one-second/)
 | Rich’s Console: Debug your Python Function in One Line of Code | [link](https://mathdatasimplified.com/2021/02/12/richs-console-debug-your-python-function-in-one-line-of-code/) | [link](code_snippets/cool_tools/rich_console.py)
-# Jupyter Notebook
+</details>
+
+
+<details><summary>Jupyter Notebook</summary>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | nbdime: Better Version Control for Jupyter Notebook | [link](https://mathdatasimplified.com/2021/06/04/nbdime-better-version-control-for-jupyter-notebook/) 
 | display in IPython: Display math equations in Jupyter Notebook | [link](https://mathdatasimplified.com/2021/03/01/display-in-ipython-display-math-equations-in-jupyter-notebook/) |[link](code_snippets/notebook/display_math_equations.ipynb)
+</details>
