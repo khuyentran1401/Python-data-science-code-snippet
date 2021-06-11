@@ -2,3 +2,6 @@
 __pycache__
 workera.py 
 venv 
+create_snippet.sh
+.pytest_cache
+.vscode
