@@ -47,6 +47,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | assert_frame equal: Test whether Two DataFrames are Similar | [link](https://mathdatasimplified.com/2021/04/15/assert_frame-equal-test-whether-two-dataframes-are-similar/) | [link](code_snippets/pandas/assert_frame_equal.py)
 | pd.Series.str: Manipulate Text Data in a pandas Series | [link](https://mathdatasimplified.com/2021/04/03/pd-series-str-manipulate-text-data-in-a-pandas-series/) | [link](code_snippets/pandas/pd_series_str.py)
 | pd.Series.between: Select Rows in a pandas Series Containing Values between 2 Numbers | [link](https://mathdatasimplified.com/2021/03/03/pd-series-between-obtain-the-rows-with-values-lie-between-2-numbers/) |[link](code_snippets/pandas/pd_series_between.py)
+| pandas.DataFrame.iterrows: Iterate over Rows of a DataFrame | [link](https://mathdatasimplified.com/2021/06/15/pandas-dataframe-iterrows-iterate-over-rows-of-a-dataframe/) | [link](code_snippets/pandas/pd_dataframe_iterrows.py)
 </details>
 
 <details><summary>Numpy</summary>
