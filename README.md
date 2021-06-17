@@ -33,6 +33,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | pathlib: Create, Write, and Rename Files in One Line of Code | [link](https://mathdatasimplified.com/2021/02/14/pathlib-create-write-and-rename-files-in-one-line-of-code/) | [link](code_snippets/python/pathlib_write)
  | heapq: Find n Max Values of a Python List | [link](https://mathdatasimplified.com/2021/03/28/heapq-find-n-max-values-of-a-python-list/) |[link](code_snippets/python/heapq_example.py)
  | filter: Get the Elements of an Iterable that a Function Returns True | [link](https://mathdatasimplified.com/2021/06/11/filter-get-the-elements-of-an-iterable-that-a-function-returns-true/) | [link](code_snippets/python/filter_example.py)
+ | join method: Turn an Iterable into a Python String | [link](https://mathdatasimplified.com/2021/06/17/join-method-turn-an-iterable-to-a-python-string/) | [link](code_snippets/python/join_list.py)
 </details>
 
 <details><summary>Pandas</summary>
