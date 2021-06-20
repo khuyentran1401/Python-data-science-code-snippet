@@ -12,6 +12,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 
 <h1 id='python'> Python Built-in Methods </h1>
+
 ### Number
 
 | Title        | Explanation | Code  |
