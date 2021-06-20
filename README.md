@@ -194,7 +194,6 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Conda rollback to the last revision | [link](https://mathdatasimplified.com/2020/11/23/conda-rollback-to-the-last-revision/) | [link](code_snippets/terminal/conda_rollback.sh)
 | Run multiple commands in one line of code | [link](https://mathdatasimplified.com/2020/11/23/run-multiple-commands-in-one-line-of-code/)
 | Download a file on Github using wget | [link](https://mathdatasimplified.com/2020/11/23/download-a-file-on-github-using-wget/) | [link](code_snippets/terminal/download_github_file.sh)
-| 
 | htop | [link](https://mathdatasimplified.com/2020/11/23/htop/)
 | How to Check Whether a Library is Installed | [link](https://mathdatasimplified.com/2020/11/23/1006/) |[link](code_snippets/terminal/check_if_library_is_installed.sh)
 
