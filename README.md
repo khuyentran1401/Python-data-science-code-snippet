@@ -2,8 +2,16 @@
 Source code of Python and data science snippets posted daily at [Data Science Simplified](https://mathdatasimplified.com/).
 
 # Contents
-<details>
-<summary>Python Built-in Methods</summary>
+* [Python Built-in Methods](#python)
+* [Pandas](#pandas)
+* [Numpy](#numpy)
+* [Data Science Tools](#data-science-tools)
+* [Terminal](#terminal)
+* [Cool Tools](#cool-tools)
+* [Jupyter Notebook](#jupyter-notebook)
+
+
+<h1 id='python'> Python Built-in Methods </h1>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -34,9 +42,38 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | heapq: Find n Max Values of a Python List | [link](https://mathdatasimplified.com/2021/03/28/heapq-find-n-max-values-of-a-python-list/) |[link](code_snippets/python/heapq_example.py)
  | filter: Get the Elements of an Iterable that a Function Returns True | [link](https://mathdatasimplified.com/2021/06/11/filter-get-the-elements-of-an-iterable-that-a-function-returns-true/) | [link](code_snippets/python/filter_example.py)
  | join method: Turn an Iterable into a Python String | [link](https://mathdatasimplified.com/2021/06/17/join-method-turn-an-iterable-to-a-python-string/) | [link](code_snippets/python/join_list.py)
-</details>
+ | Zip: Associate Elements from Two Iterators based on the Order | [link](https://mathdatasimplified.com/2021/02/05/zip-associate-elements-from-two-iterators-based-on-the-order/) |[link](code_snippets/python/zip_example.py)
+| collections.Counter: Count the Occurrences of Items in a List |[link](https://mathdatasimplified.com/2021/02/02/collections-counter-count-the-occurrences-of-items-in-a-list/) |[link](code_snippets/python/collections_counter.py)
+| Use Python Built-in Functions to Speed your Code | [link](https://mathdatasimplified.com/2021/01/29/use-python-built-in-functions-to-speed-your-code/) |[link](code_snippets/python/built_in_functions_speed.py)
+| `__call__`: You can Call your Class Instance like a Function. Here is how | [link](https://mathdatasimplified.com/2021/01/22/__call__-you-can-call-your-class-instance-like-a-function-here-is-how/) | [link](code_snippets/python/__call__example.py)
+| Stop Writing Code Comments. Use Meaningful Names Instead | [link](https://mathdatasimplified.com/2021/01/14/stop-writing-code-comments-use-meaningful-names-instead/) 
+| How to Use Underscores to Format Large Numbers in Python | [link](https://mathdatasimplified.com/2021/01/12/how-to-use-underscores-to-format-large-numbers-in-python/) |[link](code_snippets/python/underscore_large_number.py)
+|Zip Function: Create Pairs of Elements from Two Lists in Python | [link](https://mathdatasimplified.com/2021/01/11/zip-function-create-pairs-of-elements-from-two-lists-in-python/) | [link](code_snippets/python/zip_function.py)
+| Stop using = operator to create a copy of a Python list. Use copy method instead | [link](https://mathdatasimplified.com/2021/01/09/stop-using-operator-to-create-a-copy-of-a-python-list-use-copy-method-instead/) | [link](code_snippets/python/copy_method.py) 
+| Pathlib: Iterate Over All Files that End with ‘.csv’ in a Directory | [link](https://mathdatasimplified.com/2020/12/31/pathlib-iterate-over-all-files-that-end-with-csv-in-a-directory/) | [link](code_snippets/python/pathlib_iterate_files_end_with)
+| **kwargs: Pass multiple arguments to a function in Python |[link](https://mathdatasimplified.com/2020/12/26/kwargs-pass-multiple-arguments-to-a-function-in-python/) | [link](code_snippets/python/kwargs.py)
+| Underscore(_): Ignore values that will not be used | [link](https://mathdatasimplified.com/2020/12/25/underscore_-ignore-values-that-will-not-be-used/)| [link](code_snippets/python/ignore_variables.py)
+| argparse: Python Library to Parse Arguments from Command Line | [link](https://mathdatasimplified.com/2020/12/23/argparse-python-library-to-parse-arguments-from-command-line/)| [link](code_snippets/python/argparse_example.py)
+| Underscore “_”: Ignore the index in Python for loops | [link](https://mathdatasimplified.com/2020/12/20/underscore-_-ignore-the-index-in-python-for-loops/)|  [link](code_snippets/python/underscore_for_loop.py)
+| itertools.combinations: A better way to iterate through a pair of values in a Python list | [link](https://mathdatasimplified.com/2020/12/12/itertools-combinations-a-better-way-to-iterate-through-a-pair-of-values-in-a-python-list/) | [link](code_snippets/python/itertools_combinations_example.py)
+| Return Multiple Values from a Function Using Python Dictionary | [link](https://mathdatasimplified.com/2020/12/11/return-multiple-values-from-a-function-using-python-dictionary/) | [link](code_snippets/python/return_multiple_values_with_dictionary.py)
+| Save Immediate Output when an Error Occurs | [link](https://mathdatasimplified.com/2020/12/10/save-immediate-output-when-an-error-occurs/)
+| Defaultdict: Return a default value when a key is not available | [link](https://mathdatasimplified.com/2020/12/09/how-to-return-a-default-value-when-a-key-is-not-in-python-dictionary/) | [link](code_snippets/python/collections_defaultdict.py)
+| Print error without stopping the for loop in Python | [link](https://mathdatasimplified.com/2020/12/06/print-error-without-stopping-the-for-loop-in-python/) | [link](code_snippets/python/print_error.py)
+| Python Pass Statement | [link](https://mathdatasimplified.com/2020/12/02/python-pass-statement/) | [link](code_snippets/python/pass_statement.py)
+| Decorator in Python| [link](https://mathdatasimplified.com/2020/11/25/decorator-in-python/) | [link](code_snippets/python/decorator_example.py)
+ | pathlith.Path | [link](https://mathdatasimplified.com/2020/11/23/pathlith-path/) | [link](code_snippets/python/pathlib_path)
+ | Ordered dictionary in Python | [link](https://mathdatasimplified.com/2020/11/23/ordered-dictionary-in-python/) | [link](code_snippets/python/collections_ordereddict.py)
+ | Type hint in Python 3.9 | [link](https://mathdatasimplified.com/2020/11/23/type-hint-in-python-3-9/)
+ | Concurrently execute tasks on separate CPUs | [link](https://mathdatasimplified.com/2020/11/23/concurrently-execute-tasks-on-separate-cpus/) | [link](code_snippets/python/multiprocessing_example.py)
+ | Static method: use the function without adding the attributes required for a new instance | [link](https://mathdatasimplified.com/2020/11/23/static-method-use-the-function-without-adding-the-attributes-required-for-a-new-instance/) | [link](code_snippets/python/staticmethod_example.py)
+ | Confirm whether a variable is a number | [link](https://mathdatasimplified.com/2020/11/23/confirm-whether-a-variable-is-a-number/) | [link](code_snippets/python/check_if_number.py)
+ | Enumerate | [link](https://mathdatasimplified.com/2020/11/23/enumerate/) | [link](code_snippets/python/enumerate_example.py)
+ | Compare the execution time between 2 functions |[link](https://mathdatasimplified.com/2020/11/23/compare-the-execution-time-between-2-functions/) | [link](code_snippets/python/compare_execution_time.py)
+ | Use Dates in a Month as the Feature | [link](https://mathdatasimplified.com/2020/11/23/use-dates-in-a-month-as-the-feature/) | [link](code_snippets/python/dates_in_month_as_feature.py)
 
-<details><summary>Pandas</summary>
+
+# Pandas
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -49,9 +86,24 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | pd.Series.str: Manipulate Text Data in a pandas Series | [link](https://mathdatasimplified.com/2021/04/03/pd-series-str-manipulate-text-data-in-a-pandas-series/) | [link](code_snippets/pandas/pd_series_str.py)
 | pd.Series.between: Select Rows in a pandas Series Containing Values between 2 Numbers | [link](https://mathdatasimplified.com/2021/03/03/pd-series-between-obtain-the-rows-with-values-lie-between-2-numbers/) |[link](code_snippets/pandas/pd_series_between.py)
 | pandas.DataFrame.iterrows: Iterate over Rows of a DataFrame | [link](https://mathdatasimplified.com/2021/06/15/pandas-dataframe-iterrows-iterate-over-rows-of-a-dataframe/) | [link](code_snippets/pandas/pd_dataframe_iterrows.py)
-</details>
+| set_categories in pandas: Sort Categorical Column by a Specific Ordering | [link](https://mathdatasimplified.com/2021/02/09/set_categories-in-pandas-how-to-sort-categorical-column-by-a-specific-ordering/) | [link](code_snippets/pandas/set_categories.py)
+| DataFrame rolling: Find the average of the previous n datapoints using Pandas | [link](https://mathdatasimplified.com/2021/01/31/dataframe-rolling-find-the-average-of-the-previous-n-datapoints-using-pandas/) | [link](code_snippets/pandas/df_rolling.py)
+| select_dtypes: Return a subset of a DataFrame including/excluding columns based on their dtype | [link](https://mathdatasimplified.com/2021/01/26/select_dtypes-return-a-subset-of-a-dataframe-including-excluding-columns-based-on-their-dtype/) | [link](code_snippets/pandas/select_dtypes.py)
+| pct_change: Find the percentage change between the current and a prior element in a pandas Series | [link](https://mathdatasimplified.com/2021/01/19/pct_change-find-the-percentage-change-between-the-current-and-a-prior-element-in-a-pandas-series/) | [link](code_snippets/pandas/pct_change.py)
+| DataFrame.diff and DataFrame.shift: Take the Difference between Rows within a Column in Pandas | [link](https://mathdatasimplified.com/2021/01/07/dataframe-diff-and-dataframe-shift-take-the-difference-between-rows-within-a-column-in-pandas/) | [link](code_snippets/pandas/df_diff.py)
+| parse_dates: Convert Columns into Datetime When Using Pandas to Read CSV Files | [link](https://mathdatasimplified.com/2021/01/02/parse_dates-convert-columns-into-datetime-when-using-pandas-to-read-csv-files/) | [link](code_snippets/pandas/parse_dates.py)
+| Filter Rows only if Column Contains Values from another List | [link](https://mathdatasimplified.com/2020/12/19/filter-rows-only-if-column-contains-values-from-another-list/) | [link](code_snippets/pandas/s.is_in.py)
+| Specify suffixes when using df.merge() | [link](https://mathdatasimplified.com/2020/12/01/specify-suffixes-when-using-df-merge/) | [link](code_snippets/pandas/df_merge.py)
+| Pandas DataFrame: How to select all columns that start with a word | [link](https://mathdatasimplified.com/2020/11/27/pandas-dataframe-how-to-select-all-columns-that-start-with-a-word/) |[link](code_snippets/pandas/select_columns_start_with.py)
+| Specify the datatype to speed up your code and reduce memory | [link](https://mathdatasimplified.com/2020/11/23/specify-the-datatype-to-speed-up-your-code-and-reduce-memory/)
+| Highlight your pandas DataFrame | [link](https://mathdatasimplified.com/2020/11/23/highlight-your-pandas-dataframe/) | [link](code_snippets/pandas/highlight_pandas.ipynb)
+| Assign Values to Multiple New Columns | [link](https://mathdatasimplified.com/2020/11/23/assign-values-to-multiple-new-columns/) | [link](code_snippets/pandas/df_assign.py)
+| Reduce pd.DataFrame’s Memory | [link](https://mathdatasimplified.com/2020/11/23/reduce-pd-dataframes-memory/) | [link](code_snippets/pandas/reduce_memory.py)
+| Exclude Outliers | [link](https://mathdatasimplified.com/2020/11/23/exclude-outliers/) | [link](code_snippets/pandas/exclude_outliers.py)
+| Pandas DataFrame Get Data in a Year Range | [link](https://mathdatasimplified.com/2020/11/23/pandas-dataframe-get-data-in-a-year-range/) | [link](code_snippets/pandas/get_data_in_year_range.py)
 
-<details><summary>Numpy</summary>
+
+# Numpy
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -59,9 +111,11 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Use List to Change the Positions of Rows or Columns in a Numpy Array | [link](https://mathdatasimplified.com/2021/05/07/use-list-to-change-the-positions-of-rows-or-columns-in-a-numpy-array/) | [link](code_snippets/numpy/use_list_to_change_position_of_arrays.py)
 | Key Parameter in Max(): Find the Key with the Largest Value | [link](https://mathdatasimplified.com/2021/02/19/key-parameter-in-max-find-the-key-with-the-largest-value/) | [link](code_snippets/python/key_in_max.py)
 | Difference between Numpy’s All and Any Methods | [link](https://mathdatasimplified.com/2021/03/31/difference-between-numpys-all-and-any-methods/) | [link](code_snippets/numpy/any_all.py)
-</details>
+| Double np.argsort: Get Rank of Values in an Array | [link](https://mathdatasimplified.com/2021/01/03/double-np-argsort-get-rank-of-values-in-an-array/) | [link](code_snippets/numpy/double_np_argsort.py)
+| Get the index of the max value in a Numpy array | [link](https://mathdatasimplified.com/2020/12/15/get-the-index-of-the-max-value-in-a-numpy-array/) | [link](code_snippets/numpy/np_argmax.py)
 
-<details><summary>Data Science Tools</summary>
+
+# Data Science Tools
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -85,9 +139,33 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | add_datepart: Add Relevant DateTime Features in One Line of Code | [link](https://mathdatasimplified.com/2021/02/11/add_datepart-add-relevant-datetime-features-in-one-line-of-code/) | [link](code_snippets/data_science_tools/add_datepart_example.py)
 | github-to-sqlite: Download the Data of your Starred GitHub Repositories in One Command Line | [link](https://mathdatasimplified.com/2021/03/30/github-to-sqlite-download-the-data-of-your-starred-github-repositories-in-one-command-line/)
 | pytest.mark.parametrize: Test your Functions with Multiple Inputs | [link](https://mathdatasimplified.com/2021/06/09/pytest-mark-parametrize-test-your-functions-with-multiple-inputs/) | [link](code_snippets/data_science_tools/pytest_parametrize.py)
-</details>
+| Graphviz: Create a Flowchart to Capture your Ideas in Python | [link](https://mathdatasimplified.com/2021/02/06/graphviz-create-a-flowchart-to-capture-your-ideas-in-python/) |[link](code_snippets/terminal/environment_variables)
+| kedro pipeline: Create Pipeline for your Data Science Projects in Python | [link](https://mathdatasimplified.com/2021/02/03/kedro-pipeline-create-pipeline-for-your-data-science-projects-in-python/) | [link](code_snippets/data_science_tools/kedro_example.py)
+| Pytest: Shows only Failed Tests | [link](https://mathdatasimplified.com/2021/01/27/pytest-shows-only-failed-tests/) 
+| causalimpact: Find Causal Relation of an Event and a Variable in Python | [link](https://mathdatasimplified.com/2021/01/25/causalimpact-find-causal-relation-of-an-event-and-a-variable-in-python/) | [link](code_snippets/data_science_tools/causalimpact_example.ipynb)
+| Pandera: a Python Library to Validate Your Pandas DataFrame | [link](https://mathdatasimplified.com/2021/01/17/pandera-a-python-library-to-validate-your-pandas-dataframe/) | [link](code_snippets/data_science_tools/pandera_example.py)
+| Swifter: Add One Word to Make your Pandas Apply 23 Times Faster | [link](https://mathdatasimplified.com/2021/01/13/swifter-add-one-word-to-make-your-pandas-apply-23-times-faster/) | [link](code_snippets/data_science_tools/swifter_example.py)
+| gdown: Download a File from Google Drive in Python | [link](https://mathdatasimplified.com/2021/01/04/gdown-download-a-file-from-google-drive-in-python/) | [link](code_snippets/data_science_tools/gdown_example.py)
+| tqdm: Add Progress Bar to your Pandas Apply | [link](https://mathdatasimplified.com/2020/12/30/tqdm-add-progress-bar-to-your-pandas-apply/) | [link](code_snippets/data_science_tools/tqdm_example.py)
+| Spacy_streamlit: Create a Web App to Visualize your Text in 3 Lines of Code | [link](https://mathdatasimplified.com/2020/12/29/spacy_streamlit-create-a-web-app-to-visualize-your-text-in-3-lines-of-code/) | [link](code_snippets/data_science_tools/streamlit_app.py)
+| Pipeline + GridSearchCV: Prevent Data Leakage when Scaling the Data | [link](https://mathdatasimplified.com/2020/12/27/pipeline-gridsearchcv-prevent-data-leakage-when-scaling-the-data/) | [link](code_snippets/data_science_tools/pipeline_gridsearchcv.py)
+| Geopy: Extract Location Based on Python String | [link](https://mathdatasimplified.com/2020/12/08/geopy-extract-location-based-on-python-string/) | [link](code_snippets/data_science_tools/geopy_example.py)
+| Pytest Fixtures: Use the same data for different tests | [link](https://mathdatasimplified.com/2020/12/05/pytest-fixtures-use-the-same-data-for-different-tests/)| [link](code_snippets/data_science_tools/pytest_fixture.py)
+| Create an interactive map in Python | [link](https://mathdatasimplified.com/2020/12/03/create-an-interactive-map-in-python/) | [link](code_snippets/data_science_tools/folium_example.ipynb)
+| Select the features by their relevance | [link](https://mathdatasimplified.com/2020/11/23/select-the-features-by-their-relevance/) 
+| Decompose high dimensional data into two or three dimensions | [link](https://mathdatasimplified.com/2020/11/23/decompose-high-dimensional-data-into-two-or-three-dimensions/) | [link](code_snippets/data_science_tools/decompose_high_dementional_data.ipynb)
+| Extract a contiguous sequence of 2 words | [link](https://mathdatasimplified.com/2020/11/23/extract-a-contiguous-sequence-of-2-words/) | [link](code_snippets/data_science_tools/spacy_ngram.py)
+| Autoscraper | [link](https://mathdatasimplified.com/2020/11/23/autoscraper/) | [link](code_snippets/data_science_tools/autoscraper_example.py)
+| Maya: Convert the string to datetime automatically | [link](https://mathdatasimplified.com/2020/11/23/maya-convert-the-string-to-datetime-automatically/) | [link](code_snippets/data_science_tools/maya_example.py)
+| Detect the “almost similar” articles | [link](https://mathdatasimplified.com/2020/11/23/detect-the-almost-similar-articles/) | [link](code_snippets/data_science_tools/difflib_example.py)
+|Pytest repeat | [link](https://mathdatasimplified.com/2020/11/23/pytest-repeat/)|[link](code_snippets/data_science_tools/pytest_repeat.py)
+| Convert number to words | [link](https://mathdatasimplified.com/2020/11/23/convert-number-to-words/) | [link](code_snippets/data_science_tools/convert_number_to_words.py)
+| Extract holiday from date column | [link](https://mathdatasimplified.com/2020/11/23/extract-holiday-from-date-column/) | [link](code_snippets/data_science_tools/extract_holidays.py)
+| Extract series data from various Internet sources directly into a pandas DataFrame | [link](https://mathdatasimplified.com/2020/11/23/extract-series-data-from-various-internet-sources-directly-into-a-pandas-dataframe/) | [link](code_snippets/data_science_tools/extract_various_data.py)
+| Cross Validation with Time Series | [link](https://mathdatasimplified.com/2020/11/23/cross-validation-with-time-series/)
+| Compare the similar features between 2 different datasets | [link](https://mathdatasimplified.com/2020/11/23/compare-the-similar-features-between-2-different-datasets/) | [link](code_snippets/data_science_tools/compare_2_datasets)
 
-<details><summary>Terminal</summary>
+# Terminal
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -102,9 +180,25 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | tee: Save Command Output to a File | [link](https://mathdatasimplified.com/2021/03/06/tee-save-command-output-to-a-file/) | [link](code_snippets/terminal/tee_example.sh)
 | Github CLI: Brings GitHub to your Terminal | [link](https://mathdatasimplified.com/2021/02/21/github-cli-brings-github-to-your-terminal/) | [link](code_snippets/terminal/gh_cli.sh)
 | Bash For Loop: Stop Staring at your Screen. Write a Bash For Loop instead | [link](https://mathdatasimplified.com/2021/03/29/bash-for-loop-stop-staring-at-your-screen-write-a-bash-for-loop-instead/) | [link](code_snippets/terminal/bash_for_loop.sh)
-</details>
+| Environment Variables: Save Private Information in your Local Machine | [link](https://mathdatasimplified.com/2021/02/07/environment-variables-save-private-information-in-your-local-machine/) | [link](code_snippets/terminal/environment_variables)
+| Time Command: Track the Time it Takes to Execute a File in Linux | [link](https://mathdatasimplified.com/2021/01/24/time-command-track-the-time-it-takes-to-execute-a-file-in-linux/)
+| Pet: A Command-line Snippet Tool That Allows you to Store your Favorite Commands | [link](https://mathdatasimplified.com/2021/01/17/pet-a-command-line-snippet-tool-that-allows-you-to-store-your-favorite-commands/)
+| Make Important Files Impossible to be Deleted | [link](https://mathdatasimplified.com/2021/01/15/make-important-files-impossible-to-be-deleted/) | [link](code_snippets/terminal/make_file_immutable.sh)
+| Sed Command: Replace a string with another string on the command line | [link](https://mathdatasimplified.com/2020/12/17/sed-command-replace-a-string-with-another-string-on-the-command-line/) | [link](code_snippets/terminal/sed_command)
+| Colorama: Produce a colored terminal text in Python | [link](https://mathdatasimplified.com/2020/12/13/colorama-produce-a-colored-terminal-text-in-python/) 
+| Find version of a Python library using pip list and grep | [link](https://mathdatasimplified.com/2020/12/04/find-version-of-a-python-library-using-pip-list-and-grep/)
+| Loop through a list of data on your terminal | [link](https://mathdatasimplified.com/2020/11/23/loop-through-a-list-of-data-on-your-terminal/)
+| Multi-run command | [link](https://mathdatasimplified.com/2020/11/23/multi-run-command/) 
+| Pull one file from another branch using git | [link](https://mathdatasimplified.com/2020/11/23/pull-one-file-from-another-branch-using-git/)
+| View tree structure of your file | [link](https://mathdatasimplified.com/2020/11/23/view-tree-structure-of-your-file/)
+| Conda rollback to the last revision | [link](https://mathdatasimplified.com/2020/11/23/conda-rollback-to-the-last-revision/) | [link](code_snippets/terminal/conda_rollback.sh)
+| Run multiple commands in one line of code | [link](https://mathdatasimplified.com/2020/11/23/run-multiple-commands-in-one-line-of-code/)
+| Download a file on Github using wget | [link](https://mathdatasimplified.com/2020/11/23/download-a-file-on-github-using-wget/) | [link](code_snippets/terminal/download_github_file.sh)
+| 
+| htop | [link](https://mathdatasimplified.com/2020/11/23/htop/)
+| How to Check Whether a Library is Installed | [link](https://mathdatasimplified.com/2020/11/23/1006/) |[link](code_snippets/terminal/check_if_library_is_installed.sh)
 
-<details><summary>Cool Tools</summary>
+# Cool Tools
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -118,13 +212,24 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Box: Using Dot Notation to Access Keys in a Python Dictionary | [link](https://mathdatasimplified.com/2021/03/02/box-using-dot-notation-to-access-keys-in-a-python-dictionary/) | [link](code_snippets/cool_tools/box_example.py)
 | github1s: Read GitHub Code with VS Code on your Browser in One Second | [link](https://mathdatasimplified.com/2021/02/15/github1s-read-github-code-with-vs-code-on-your-browser-in-one-second/)
 | Rich’s Console: Debug your Python Function in One Line of Code | [link](https://mathdatasimplified.com/2021/02/12/richs-console-debug-your-python-function-in-one-line-of-code/) | [link](code_snippets/cool_tools/rich_console.py)
-</details>
+| virtualenv-clone: Create a Copy of a Virtual Environment | [link](https://mathdatasimplified.com/2021/02/01/virtualenv-clone-create-a-copy-of-a-virtual-environment/) | [link](code_snippets/terminal/virtualenv_clone.sh)
+| Schedule: Schedule your Python Functions to Run At a Specific Time | [link](https://mathdatasimplified.com/2021/01/30/schedule-schedule-your-python-functions-to-run-at-a-specific-time/) | [link](code_snippets/cool_tools/schedule_example.py)
+| loguru: Print Readable Traceback in Python | [link](https://mathdatasimplified.com/2021/01/23/loguru-print-readable-traceback-in-python/) | [link](code_snippets/cool_tools/loguru_example.py)
+| notify-send: Send a Desktop Notification after Finishing Executing a File | [link](https://mathdatasimplified.com/2021/01/20/notify-send-send-a-desktop-notification-after-finishing-executing-a-file/) |[link](code_snippets/cool_tools/notify_send.sh)
+| Icecream: Adding a Datetime Stamp to Python print | [link](https://mathdatasimplified.com/2021/01/15/icecream-adding-a-datetime-stamp-to-python-print/) | [link](code_snippets/cool_tools/icecream_datetime.py)
+| getme forecast: Get the Weather Forecast Through your Terminal | [link](https://mathdatasimplified.com/2021/01/10/getme-forecast-get-the-weather-forecast-through-your-terminal/) | [link](code_snippets/cool_tools/getme_forecast.sh)
+| isort: Automatically Sort your Python Imports in 1 Line of Code | [link](https://mathdatasimplified.com/2021/01/06/isort-automatically-sort-your-python-imports-in-1-line-of-code/) | [link](code_snippets/cool_tools/isort_example.py)
+| Icrecream: Never use print() to debug again | [link](https://mathdatasimplified.com/2021/01/01/icrecream-never-use-print-to-debug-again/) | [link](code_snippets/cool_tools/icecream_example.py)
+| PyGithub: Manage your Github resources using Python | [link](https://mathdatasimplified.com/2020/12/24/pygithub-manage-your-github-resources-using-python/) | [link](code_snippets/cool_tools/pygithub_example.py)
+| Pyfiglet: Make large and unique letters out of ordinary text in Python | [link](https://mathdatasimplified.com/2020/12/22/pyfiglet-make-large-and-unique-letters-out-of-ordinary-text-in-python/) | [link](code_snippets/cool_tools/pyfiglet_example.py)
+| Astral: Organize your Github stars with ease | [link](https://mathdatasimplified.com/2020/12/18/astral-organize-your-github-stars-with-ease/)
+| knockknock: Receive an email when your code finishes executing | [link](https://mathdatasimplified.com/2020/11/23/knockknock-receive-an-email-when-your-code-finishes-executing/)| [link](code_snippets/cool_tools/knockknock_example.py)
 
 
-<details><summary>Jupyter Notebook</summary>
+# Jupyter Notebook
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | nbdime: Better Version Control for Jupyter Notebook | [link](https://mathdatasimplified.com/2021/06/04/nbdime-better-version-control-for-jupyter-notebook/) 
 | display in IPython: Display math equations in Jupyter Notebook | [link](https://mathdatasimplified.com/2021/03/01/display-in-ipython-display-math-equations-in-jupyter-notebook/) |[link](code_snippets/notebook/display_math_equations.ipynb)
-</details>
+| Reuse the notebook to run the same code across different data | [link](https://mathdatasimplified.com/2020/11/23/reuse-the-notebook-to-run-the-same-code-across-different-data/)

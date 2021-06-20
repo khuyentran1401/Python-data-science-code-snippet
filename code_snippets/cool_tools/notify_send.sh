@@ -1,0 +1,1 @@
+python file_to_run.py ; notify-send "Process terminated"

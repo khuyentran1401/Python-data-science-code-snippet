@@ -5,3 +5,4 @@ venv
 create_snippet.sh
 .pytest_cache
 .vscode
+.config
