@@ -400,7 +400,9 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | github1s: Read GitHub Code with VS Code on your Browser in One Second | [link](https://mathdatasimplified.com/2021/02/15/github1s-read-github-code-with-vs-code-on-your-browser-in-one-second/)
 | PyGithub: Manage your Github resources using Python | [link](https://mathdatasimplified.com/2020/12/24/pygithub-manage-your-github-resources-using-python/) | [link](code_snippets/cool_tools/pygithub_example.py)
 | Astral: Organize your Github stars with ease | [link](https://mathdatasimplified.com/2020/12/18/astral-organize-your-github-stars-with-ease/)
+
 ### Alternative Approach
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Box: Using Dot Notation to Access Keys in a Python Dictionary | [link](https://mathdatasimplified.com/2021/03/02/box-using-dot-notation-to-access-keys-in-a-python-dictionary/) | [link](code_snippets/cool_tools/box_example.py)
