@@ -56,6 +56,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | Enumerate | [link](https://mathdatasimplified.com/2020/11/23/enumerate/) | [link](code_snippets/python/enumerate_example.py)
 
 ### Tuple
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
  | namedtuple: A Lightweight Python Structure to Mange your Data | [link](https://mathdatasimplified.com/2021/02/22/namedtuple-a-lightweight-python-structure-to-mange-your-data/) | [link](code_snippets/python/namedtuple_example.py)
