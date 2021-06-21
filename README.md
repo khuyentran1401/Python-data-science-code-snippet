@@ -30,7 +30,6 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 ### String
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| `__str__` and `__repr__`: Create a String Representation of a Python Object | [link](https://mathdatasimplified.com/2021/05/11/__str__-and-__repr__-create-a-string-representation-of-a-python-bbject/) | [link](code_snippets/python/__str__and__repr.py)
 | String find: Find the Index of a Substring in a Python String | [link](https://mathdatasimplified.com/2021/05/01/string-find-find-the-index-of-a-substring-in-a-python-string/) | [link](code_snippets/python/string_find.py)
 | eval: Turn a Python String into a Variable or Function | [link](https://mathdatasimplified.com/2021/03/13/eval-turn-a-python-string-into-a-variable-or-function/) |[link](code_snippets/python/eval_example.py)
 | re.sub: Replace One String with Another String Using Regular Expression | [link](https://mathdatasimplified.com/2021/03/07/re-sub-replace-one-string-with-another-string-using-regular-expression/) | [link](code_snippets/python/re_sub_example.py)
@@ -85,6 +84,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | getattr: a Better Way to Get the Attribute of a Class | [link](https://mathdatasimplified.com/2021/02/23/getattr-a-better-way-to-get-the-attribute-of-a-class/) | [link](code_snippets/python/getattr_example.py)
  | `__call__`: You can Call your Class Instance like a Function. Here is how | [link](https://mathdatasimplified.com/2021/01/22/__call__-you-can-call-your-class-instance-like-a-function-here-is-how/) | [link](code_snippets/python/__call__example.py)
  | Static method: use the function without adding the attributes required for a new instance | [link](https://mathdatasimplified.com/2020/11/23/static-method-use-the-function-without-adding-the-attributes-required-for-a-new-instance/) | [link](code_snippets/python/staticmethod_example.py)
+ | `__str__` and `__repr__`: Create a String Representation of a Python Object | [link](https://mathdatasimplified.com/2021/05/11/__str__-and-__repr__-create-a-string-representation-of-a-python-bbject/) | [link](code_snippets/python/__str__and__repr.py)
 
 ### Files
 | Title        | Explanation | Code  |
