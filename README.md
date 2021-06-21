@@ -23,18 +23,22 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | Confirm whether a variable is a number | [link](https://mathdatasimplified.com/2020/11/23/confirm-whether-a-variable-is-a-number/) | [link](code_snippets/python/check_if_number.py)
 
 ### Boolean
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Boolean Operators: Connect Two Boolean Expressions into One Expression | [link](https://mathdatasimplified.com/2021/05/15/boolean-operators-connect-two-boolean-expressions-into-one-expression/) | [link](code_snippets/python/boolean_operators.py)
 
 ### String
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | `__str__` and `__repr__`: Create a String Representation of a Python Object | [link](https://mathdatasimplified.com/2021/05/11/__str__-and-__repr__-create-a-string-representation-of-a-python-bbject/) | [link](code_snippets/python/__str__and__repr.py)
 | String find: Find the Index of a Substring in a Python String | [link](https://mathdatasimplified.com/2021/05/01/string-find-find-the-index-of-a-substring-in-a-python-string/) | [link](code_snippets/python/string_find.py)
 | eval: Turn a Python String into a Variable or Function | [link](https://mathdatasimplified.com/2021/03/13/eval-turn-a-python-string-into-a-variable-or-function/) |[link](code_snippets/python/eval_example.py)
 | re.sub: Replace One String with Another String Using Regular Expression | [link](https://mathdatasimplified.com/2021/03/07/re-sub-replace-one-string-with-another-string-using-regular-expression/) | [link](code_snippets/python/re_sub_example.py)
+
 ### List 
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | any: Check if Any Element of an Iterable is True | [link](https://mathdatasimplified.com/2021/06/01/any-check-if-any-element-of-an-iterable-is-true/) | [link](./code_snippets/python/any_example.py)
@@ -58,17 +62,21 @@ Source code of Python and data science snippets posted daily at [Data Science Si
   | slice: Make your Indices more Readable by Naming your Slice | [link](https://mathdatasimplified.com/2021/02/16/slice-make-your-indices-more-readable-by-naming-your-slice/) | [link](code_snippets/python/slice_example.py)
 
 ### Dictionary
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Defaultdict: Return a default value when a key is not available | [link](https://mathdatasimplified.com/2020/12/09/how-to-return-a-default-value-when-a-key-is-not-in-python-dictionary/) | [link](code_snippets/python/collections_defaultdict.py)
 | Ordered dictionary in Python | [link](https://mathdatasimplified.com/2020/11/23/ordered-dictionary-in-python/) | [link](code_snippets/python/collections_ordereddict.py)
+
 ### Datetime
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | datetime + timedelta: Calculate End DateTime based on Start DateTime and Duration | [link](https://mathdatasimplified.com/2021/03/04/datetime-timedelta-calculate-end-datetime-based-on-start-datetime-and-duration/) | [link](code_snippets/python/datetime_timedelta.py)
  | Use Dates in a Month as the Feature | [link](https://mathdatasimplified.com/2020/11/23/use-dates-in-a-month-as-the-feature/) | [link](code_snippets/python/dates_in_month_as_feature.py)
 
 ### Function
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | *iterator: Pass Values of an Iterator to a Function | [link](https://mathdatasimplified.com/2021/05/05/iterator-pass-values-of-an-iterator-to-a-function/) | [link](code_snippets/python/args_example.py)
@@ -76,6 +84,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | **kwargs: Pass multiple arguments to a function in Python |[link](https://mathdatasimplified.com/2020/12/26/kwargs-pass-multiple-arguments-to-a-function-in-python/) | [link](code_snippets/python/kwargs.py)
 | Return Multiple Values from a Function Using Python Dictionary | [link](https://mathdatasimplified.com/2020/12/11/return-multiple-values-from-a-function-using-python-dictionary/) | [link](code_snippets/python/return_multiple_values_with_dictionary.py)
 | Decorator in Python| [link](https://mathdatasimplified.com/2020/11/25/decorator-in-python/) | [link](code_snippets/python/decorator_example.py)
+
 ### Classes
 
 | Title        | Explanation | Code  |
@@ -87,6 +96,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | Static method: use the function without adding the attributes required for a new instance | [link](https://mathdatasimplified.com/2020/11/23/static-method-use-the-function-without-adding-the-attributes-required-for-a-new-instance/) | [link](code_snippets/python/staticmethod_example.py)
 
 ### Files
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Shutil: Move Files in Python | [link](https://mathdatasimplified.com/2021/06/03/shutil-move-files-in-python/) | [link](./code_snippets/python/move_files/move_files.py)
@@ -97,18 +107,21 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | `__main__.py`: Run a Directory like a Main Script | [link](https://mathdatasimplified.com/2021/03/15/__main__-py-run-a-directory-like-a-main-script/) |[link](code_snippets/python/main_example)
 
 ### Error handling
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Assert in Python: Output a Customized Message When the Assertion Fails | [link](https://mathdatasimplified.com/2021/04/13/assert-in-python-output-a-customized-message-when-the-assertion-fails/) | [link](code_snippets/python/assert_customize_message.py)
 | warnings: Ignore Warnings when Running Python Code | [link](https://mathdatasimplified.com/2021/03/11/warnings-ignore-warnings-when-running-python-code/) | [link](code_snippets/python/warnings_example.py)
 
 ### Interact with Terminal
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | How to Execute Shell Commands in a Python Script | [link](https://mathdatasimplified.com/2021/04/10/how-to-execute-shell-commands-in-a-python-script/) | [link](code_snippets/python/os_system.py)
 | argparse: Python Library to Parse Arguments from Command Line | [link](https://mathdatasimplified.com/2020/12/23/argparse-python-library-to-parse-arguments-from-command-line/)| [link](code_snippets/python/argparse_example.py)
 
 ### Best Practices
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Stop Writing Code Comments. Use Meaningful Names Instead | [link](https://mathdatasimplified.com/2021/01/14/stop-writing-code-comments-use-meaningful-names-instead/) 
@@ -120,6 +133,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | Type hint in Python 3.9 | [link](https://mathdatasimplified.com/2020/11/23/type-hint-in-python-3-9/)
 
  ### Code Speed
+ 
  | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
  | Concurrently execute tasks on separate CPUs | [link](https://mathdatasimplified.com/2020/11/23/concurrently-execute-tasks-on-separate-cpus/) | [link](code_snippets/python/multiprocessing_example.py)
@@ -129,6 +143,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 <h1 id='pandas'> Pandas <img src="images/panda.png"> </h1>
 
 ### Change Values
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | pd.DataFrame.agg: Aggregate over Columns or Rows Using Multiple Operations | [link](https://mathdatasimplified.com/2021/05/09/pd-dataframe-agg-aggregate-over-columns-or-rows-using-multiple-operations/) | [link](code_snippets/pandas/pd_dataframe_agg.py)
@@ -143,6 +158,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Highlight your pandas DataFrame | [link](https://mathdatasimplified.com/2020/11/23/highlight-your-pandas-dataframe/) | [link](code_snippets/pandas/highlight_pandas.ipynb)
 | Assign Values to Multiple New Columns | [link](https://mathdatasimplified.com/2020/11/23/assign-values-to-multiple-new-columns/) | [link](code_snippets/pandas/df_assign.py)
 | Reduce pd.DataFrame’s Memory | [link](https://mathdatasimplified.com/2020/11/23/reduce-pd-dataframes-memory/) | [link](code_snippets/pandas/reduce_memory.py)
+
 ### Get Values
 
 | Title        | Explanation | Code  |
@@ -160,6 +176,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Pandas DataFrame Get Data in a Year Range | [link](https://mathdatasimplified.com/2020/11/23/pandas-dataframe-get-data-in-a-year-range/) | [link](code_snippets/pandas/get_data_in_year_range.py)
 
 ### Testing
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | assert_frame equal: Test whether Two DataFrames are Similar | [link](https://mathdatasimplified.com/2021/04/15/assert_frame-equal-test-whether-two-dataframes-are-similar/) | [link](code_snippets/pandas/assert_frame_equal.py)
@@ -181,6 +198,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 <h1 id='data-science-tools'> Data Science Tools <img src="images/data-science.png"> </h1>
 
 ### Testing
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | snoop : Smart Print to Debug your Python Function | [link](https://mathdatasimplified.com/2021/05/28/snoop-smart-print-to-debug-your-python-function/) | [link](./code_snippets/data_science_tools/snoop_example.py)
@@ -192,6 +210,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Pandera: a Python Library to Validate Your Pandas DataFrame | [link](https://mathdatasimplified.com/2021/01/17/pandera-a-python-library-to-validate-your-pandas-dataframe/) | [link](code_snippets/data_science_tools/pandera_example.py)
 
 ### Data
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | faker: Create Fake Data in One Line of Code |[link](https://mathdatasimplified.com/2021/05/14/faker-create-fake-data-in-one-line-of-code/)|[link](code_snippets/data_science_tools/faker_example.py)
@@ -201,7 +220,9 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Autoscraper | [link](https://mathdatasimplified.com/2020/11/23/autoscraper/) | [link](code_snippets/data_science_tools/autoscraper_example.py)
 | Extract series data from various Internet sources directly into a pandas DataFrame | [link](https://mathdatasimplified.com/2020/11/23/extract-series-data-from-various-internet-sources-directly-into-a-pandas-dataframe/) | [link](code_snippets/data_science_tools/extract_various_data.py)
 | Compare the similar features between 2 different datasets | [link](https://mathdatasimplified.com/2020/11/23/compare-the-similar-features-between-2-different-datasets/) | [link](code_snippets/data_science_tools/compare_2_datasets)
+
 ### Feature extraction
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | datefinder: Automatically Find Dates and Time in a Python String | [link](https://mathdatasimplified.com/2021/05/08/datefinder-automatically-find-dates-and-time-in-a-python-string/) | [link](code_snippets/data_science_tools/datefinder_example.py)
@@ -214,6 +235,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Extract holiday from date column | [link](https://mathdatasimplified.com/2020/11/23/extract-holiday-from-date-column/) | [link](code_snippets/data_science_tools/extract_holidays.py)
 
 ### Visualization
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | D-Tale: A Python Library to Visualize and Analyze your Data Without Code | [link](https://mathdatasimplified.com/2021/05/16/d-tale-a-python-library-to-visualize-and-analyze-your-data-without-code/)
@@ -221,12 +243,14 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Create an interactive map in Python | [link](https://mathdatasimplified.com/2020/12/03/create-an-interactive-map-in-python/) | [link](code_snippets/data_science_tools/folium_example.ipynb)
 
 ### Sharing and Downloading
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Datapane: Publish your Python Objects on the Web in 2 Lines of Code | [link](https://mathdatasimplified.com/2021/04/25/datapane-publish-your-python-objects-on-the-web-in-2-lines-of-code/) | [link](code_snippets/data_science_tools/datapane_example.py)
 | gdown: Download a File from Google Drive in Python | [link](https://mathdatasimplified.com/2021/01/04/gdown-download-a-file-from-google-drive-in-python/) | [link](code_snippets/data_science_tools/gdown_example.py)
 
 ### Natural Language Processing
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | TextBlob: Processing Text in One Line of Code | [link](https://mathdatasimplified.com/2021/04/16/textblob-processing-text-in-one-line-of-code/) | [link](code_snippets/data_science_tools/textblob_example.py)
@@ -235,7 +259,9 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Extract a contiguous sequence of 2 words | [link](https://mathdatasimplified.com/2020/11/23/extract-a-contiguous-sequence-of-2-words/) | [link](code_snippets/data_science_tools/spacy_ngram.py)
 | Detect the “almost similar” articles | [link](https://mathdatasimplified.com/2020/11/23/detect-the-almost-similar-articles/) | [link](code_snippets/data_science_tools/difflib_example.py)
 | Convert number to words | [link](https://mathdatasimplified.com/2020/11/23/convert-number-to-words/) | [link](code_snippets/data_science_tools/convert_number_to_words.py)
+
 ### Tools for Best Python Practices
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Don’t Hard-Code. Use Hydra Instead | [link](https://mathdatasimplified.com/2021/04/08/dont-hard-code-use-hydra-instead/) |[link](code_snippets/data_science_tools/hydra_example)
@@ -244,18 +270,21 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | docopt: Create Beautiful Command-line Interfaces for Documentation in Python | [link](https://mathdatasimplified.com/2021/03/18/docopt-create-beautiful-command-line-interfaces-for-documentation-in-python/)| [link](code_snippets/data_science_tools/docopt_example.py)
 
 ### Speed Up Code
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | fastai’s df_shrink: Shrink DataFrame’s Memory Usage in One Line of Code | [link](https://mathdatasimplified.com/2021/02/24/fastais-df_shrink-shrink-dataframes-memory-usage-in-one-line-of-code/) | [link](code_snippets/data_science_tools/fastai_df_shrink.py)
 | Swifter: Add One Word to Make your Pandas Apply 23 Times Faster | [link](https://mathdatasimplified.com/2021/01/13/swifter-add-one-word-to-make-your-pandas-apply-23-times-faster/) | [link](code_snippets/data_science_tools/swifter_example.py)
 
 ### Better Pandas
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:| 
 | rich-dataframe: Create Animated and Colorful Pandas Dataframe | [link](https://mathdatasimplified.com/2021/02/17/rich-dataframe-create-animated-and-colorful-pandas-dataframe/) 
 | tqdm: Add Progress Bar to your Pandas Apply | [link](https://mathdatasimplified.com/2020/12/30/tqdm-add-progress-bar-to-your-pandas-apply/) | [link](code_snippets/data_science_tools/tqdm_example.py)
 
 ### Machine Learning
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:| 
 | causalimpact: Find Causal Relation of an Event and a Variable in Python | [link](https://mathdatasimplified.com/2021/01/25/causalimpact-find-causal-relation-of-an-event-and-a-variable-in-python/) | [link](code_snippets/data_science_tools/causalimpact_example.ipynb)
@@ -266,12 +295,14 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 <h1 id='terminal'> Terminal <img src="images/command-window.png"> </h1>
 
 ### Text
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | tr Command: Translate Characters to Improve Readability In Unix/Linux | [link](https://mathdatasimplified.com/2021/04/05/tr-command-translate-characters-to-improve-readability-in-unix-linux/) |[link](code_snippets/terminal/tr_command.sh)
 | Sed Command: Replace a string with another string on the command line | [link](https://mathdatasimplified.com/2020/12/17/sed-command-replace-a-string-with-another-string-on-the-command-line/) | [link](code_snippets/terminal/sed_command)
 
 ### Files
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | fd: a Simple Tool to Search for Files or Directories Fast | [link](https://mathdatasimplified.com/2021/04/09/fd-a-simple-tool-to-search-for-files-or-directories-fast/)
@@ -279,7 +310,9 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | tee: Save Command Output to a File | [link](https://mathdatasimplified.com/2021/03/06/tee-save-command-output-to-a-file/) | [link](code_snippets/terminal/tee_example.sh)
 | Make Important Files Impossible to be Deleted | [link](https://mathdatasimplified.com/2021/01/15/make-important-files-impossible-to-be-deleted/) | [link](code_snippets/terminal/make_file_immutable.sh)
 | View tree structure of your file | [link](https://mathdatasimplified.com/2020/11/23/view-tree-structure-of-your-file/)
+
 ### Tracking
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | timeit on the Command Line: Measure Execution Time of Small Code Snippets | [link](https://mathdatasimplified.com/2021/05/25/timeit-on-the-command-line-measure-execution-time-of-small-code-snippets/) | [link](./code_snippets/terminal/timeit_command_line.sh)
@@ -287,24 +320,29 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | htop | [link](https://mathdatasimplified.com/2020/11/23/htop/)
 
 ### Python 
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Python Shell as an Calculator: Grab the Last Output Using “_” | [link](https://mathdatasimplified.com/2021/03/16/python-shell-as-an-calculator-grab-the-last-output-using-_/)
 | Find version of a Python library using pip list and grep | [link](https://mathdatasimplified.com/2020/12/04/find-version-of-a-python-library-using-pip-list-and-grep/)
 | Conda rollback to the last revision | [link](https://mathdatasimplified.com/2020/11/23/conda-rollback-to-the-last-revision/) | [link](code_snippets/terminal/conda_rollback.sh)
 | How to Check Whether a Library is Installed | [link](https://mathdatasimplified.com/2020/11/23/1006/) |[link](code_snippets/terminal/check_if_library_is_installed.sh)
+
 ### Prettify Terminal
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | colorls: Beautify your ls Command with Color and Icons | [link](https://mathdatasimplified.com/2021/04/18/colorls-beautify-your-ls-command-with-color-and-icons/)
 | Colorama: Produce a colored terminal text in Python | [link](https://mathdatasimplified.com/2020/12/13/colorama-produce-a-colored-terminal-text-in-python/) 
 
 ### Sharing
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | terminalizer: Record and Share your Terminal Sessions | [link](https://mathdatasimplified.com/2021/03/08/termanalizer-record-and-share-your-terminal-sessions/)
 
 ### Productive Hacks
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Bash For Loop: Stop Staring at your Screen. Write a Bash For Loop instead | [link](https://mathdatasimplified.com/2021/03/29/bash-for-loop-stop-staring-at-your-screen-write-a-bash-for-loop-instead/) | [link](code_snippets/terminal/bash_for_loop.sh)
@@ -317,6 +355,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 <h1 id='cool-tools'> Cool Tools <img src="images/cool.png"> </h1>
 
 ### Better Output
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | How to Strip Outputs and Execute Interactive Code in a Python Script | [link](https://mathdatasimplified.com/2021/05/12/how-to-strip-outputs-and-execute-interactive-code-in-a-python-script/) | [link](code_snippets/cool_tools/strip_interactive_example.py)
@@ -326,18 +365,22 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Icecream: Adding a Datetime Stamp to Python print | [link](https://mathdatasimplified.com/2021/01/15/icecream-adding-a-datetime-stamp-to-python-print/) | [link](code_snippets/cool_tools/icecream_datetime.py)
 | Icrecream: Never use print() to debug again | [link](https://mathdatasimplified.com/2021/01/01/icrecream-never-use-print-to-debug-again/) | [link](code_snippets/cool_tools/icecream_example.py)
 | Pyfiglet: Make large and unique letters out of ordinary text in Python | [link](https://mathdatasimplified.com/2020/12/22/pyfiglet-make-large-and-unique-letters-out-of-ordinary-text-in-python/) | [link](code_snippets/cool_tools/pyfiglet_example.py)
+
 ### Tracking
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Stacer: Visualize the History of your CPU and Memory Usage | [link](https://mathdatasimplified.com/2021/05/02/stacer-visualize-the-history-of-your-cpu-and-memory-usage/)
 
 ### Data
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | sherlock: Search for a Username Across 298 Popular Website | [link](https://mathdatasimplified.com/2021/03/09/sherlock-search-for-a-username-across-298-popular-websites/)
 | getme forecast: Get the Weather Forecast Through your Terminal | [link](https://mathdatasimplified.com/2021/01/10/getme-forecast-get-the-weather-forecast-through-your-terminal/) | [link](code_snippets/cool_tools/getme_forecast.sh)
 
 ### Automation
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | notion-py: Access and Edit your Notion App Using Python | [link](https://mathdatasimplified.com/2021/04/01/notion-py-access-and-edit-your-notion-app-using-python/)| [link](code_snippets/cool_tools/notion_example.py)
@@ -348,6 +391,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | knockknock: Receive an email when your code finishes executing | [link](https://mathdatasimplified.com/2020/11/23/knockknock-receive-an-email-when-your-code-finishes-executing/)| [link](code_snippets/cool_tools/knockknock_example.py)
 
 ### Git and GitHub
+
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Github CLI: Brings GitHub to your Terminal | [link](https://mathdatasimplified.com/2021/02/21/github-cli-brings-github-to-your-terminal/) | [link](code_snippets/terminal/gh_cli.sh)
