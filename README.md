@@ -11,7 +11,8 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 * [Jupyter Notebook](#jupyter-notebook)
 
 
-<h1 id='python'> Python Built-in Methods </h1>
+<h1 id='python'> Python Built-in Methods <img src="images/python.png" style="width:100px;height:100px;"> </h1>
+
 ### Number
 
 | Title        | Explanation | Code  |
@@ -125,7 +126,8 @@ Source code of Python and data science snippets posted daily at [Data Science Si
  | Compare the execution time between 2 functions |[link](https://mathdatasimplified.com/2020/11/23/compare-the-execution-time-between-2-functions/) | [link](code_snippets/python/compare_execution_time.py)
 
 
-# Pandas
+<h1 id='pandas'> Pandas <img src="images/panda.png" style="width:100px;height:100px;"> </h1>
+
 ### Change Values
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -164,7 +166,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 
 
-# Numpy
+<h1 id='numpy'> Numpy <img src="images/numpy.png" style="width:100px;height:100px;"> </h1>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -176,7 +178,8 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Get the index of the max value in a Numpy array | [link](https://mathdatasimplified.com/2020/12/15/get-the-index-of-the-max-value-in-a-numpy-array/) | [link](code_snippets/numpy/np_argmax.py)
 
 
-# Data Science Tools
+<h1 id='data-science-tools'> Data Science Tools <img src="images/data-science.png" style="width:100px;height:100px;"> </h1>
+
 ### Testing
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -260,7 +263,8 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Decompose high dimensional data into two or three dimensions | [link](https://mathdatasimplified.com/2020/11/23/decompose-high-dimensional-data-into-two-or-three-dimensions/) | [link](code_snippets/data_science_tools/decompose_high_dementional_data.ipynb)
 | Cross Validation with Time Series | [link](https://mathdatasimplified.com/2020/11/23/cross-validation-with-time-series/)
 
-# Terminal
+<h1 id='terminal'> Terminal <img src="images/command-window.png" style="width:100px;height:100px;"> </h1>
+
 ### Text
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
@@ -310,8 +314,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Multi-run command | [link](https://mathdatasimplified.com/2020/11/23/multi-run-command/) 
 | Run multiple commands in one line of code | [link](https://mathdatasimplified.com/2020/11/23/run-multiple-commands-in-one-line-of-code/)
 
-
-# Cool Tools
+<h1 id='cool-tools'> Cool Tools <img src="images/cool.png" style="width:100px;height:100px;"> </h1>
 
 ### Better Output
 | Title        | Explanation | Code  |
@@ -359,8 +362,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Box: Using Dot Notation to Access Keys in a Python Dictionary | [link](https://mathdatasimplified.com/2021/03/02/box-using-dot-notation-to-access-keys-in-a-python-dictionary/) | [link](code_snippets/cool_tools/box_example.py)
 | virtualenv-clone: Create a Copy of a Virtual Environment | [link](https://mathdatasimplified.com/2021/02/01/virtualenv-clone-create-a-copy-of-a-virtual-environment/) | [link](code_snippets/terminal/virtualenv_clone.sh)
 
-
-# Jupyter Notebook
+<h1 id='jupyter-notebook'> Jupyter Notebook <img src="images/notebook.png" style="width:100px;height:100px;"> </h1>
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
