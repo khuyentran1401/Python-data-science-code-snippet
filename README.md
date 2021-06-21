@@ -133,7 +133,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Python Pass Statement | [link](https://mathdatasimplified.com/2020/12/02/python-pass-statement/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/pass_statement.py)
  | Type hint in Python 3.9 | [link](https://mathdatasimplified.com/2020/11/23/type-hint-in-python-3-9/)
 
- ### Code Speed
+### Code Speed
  
  | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
