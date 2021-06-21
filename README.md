@@ -41,7 +41,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| any: Check if Any Element of an Iterable is True | [link](https://mathdatasimplified.com/2021/06/01/any-check-if-any-element-of-an-iterable-is-true/) | [link](./https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/any_example.py)
+| any: Check if Any Element of an Iterable is True | [link](https://mathdatasimplified.com/2021/06/01/any-check-if-any-element-of-an-iterable-is-true/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/any_example.py)
 | Extended Iterable Unpacking: Ignore Multiple Values when Unpacking a Python Iterable | [link](https://mathdatasimplified.com/2021/05/03/extended-iterable-unpacking-ignore-multiple-values-when-unpacking-a-python-iterable/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/extended_iterable_unpacking.py)
 | How to Unpack Iterables in Python | [link](https://mathdatasimplified.com/2021/04/07/how-to-unpack-iterables-in-python/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/unpack_iterables.py)
 | random.choice: Get a Randomly Selected Element from a Python List | [link](https://mathdatasimplified.com/2021/02/28/random-choice-get-a-randomly-selected-element-from-a-python-list/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/random_choice.py)
@@ -90,7 +90,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| Abstract Classes: Declare Methods without Implementation | [link](https://mathdatasimplified.com/2021/06/08/abstract-classes-declare-methods-without-implementation/)  | [link](./https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/abc_example.py) |
+| Abstract Classes: Declare Methods without Implementation | [link](https://mathdatasimplified.com/2021/06/08/abstract-classes-declare-methods-without-implementation/)  | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/abc_example.py) |
 | classmethod: What is it and When to Use it | [link](https://mathdatasimplified.com/2021/04/24/classmethod-what-is-it-and-when-to-use-it/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/classmethod_example.py)
  | getattr: a Better Way to Get the Attribute of a Class | [link](https://mathdatasimplified.com/2021/02/23/getattr-a-better-way-to-get-the-attribute-of-a-class/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/getattr_example.py)
  | `__call__`: You can Call your Class Instance like a Function. Here is how | [link](https://mathdatasimplified.com/2021/01/22/__call__-you-can-call-your-class-instance-like-a-function-here-is-how/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/__call__example.py)
@@ -100,7 +100,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| Shutil: Move Files in Python | [link](https://mathdatasimplified.com/2021/06/03/shutil-move-files-in-python/) | [link](./https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/move_files/move_files.py)
+| Shutil: Move Files in Python | [link](https://mathdatasimplified.com/2021/06/03/shutil-move-files-in-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/move_files/move_files.py)
 | pathlith.Path | [link](https://mathdatasimplified.com/2020/11/23/pathlith-path/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/pathlib_path)
 | pathlib: Create, Write, and Rename Files in One Line of Code | [link](https://mathdatasimplified.com/2021/02/14/pathlib-create-write-and-rename-files-in-one-line-of-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/pathlib_write)
 | Pathlib: Iterate Over All Files that End with ‘.csv’ in a Directory | [link](https://mathdatasimplified.com/2020/12/31/pathlib-iterate-over-all-files-that-end-with-csv-in-a-directory/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/pathlib_iterate_files_end_with)
@@ -164,7 +164,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| df.columns.str.startswith: Find DataFrame’s Columns that Start with a Pattern | [link](https://mathdatasimplified.com/2021/05/27/df-columns-str-startswith-find-dataframes-columns-that-start-with-a-pattern/) | [link](./https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/df_columns_str_start_with.py)
+| df.columns.str.startswith: Find DataFrame’s Columns that Start with a Pattern | [link](https://mathdatasimplified.com/2021/05/27/df-columns-str-startswith-find-dataframes-columns-that-start-with-a-pattern/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/df_columns_str_start_with.py)
 | pandas.DataFrame.iterrows: Iterate over Rows of a DataFrame | [link](https://mathdatasimplified.com/2021/06/15/pandas-dataframe-iterrows-iterate-over-rows-of-a-dataframe/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/pd_dataframe_iterrows.py)
 | pandas.Series.dt: Access Datetime Properties of pandas Series | [link](https://mathdatasimplified.com/2021/05/13/pandas-series-dt-access-datetime-properties-of-pandas-series/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/pd_series_dt.py)
 | pd.Series.between: Select Rows in a pandas Series Containing Values between 2 Numbers | [link](https://mathdatasimplified.com/2021/03/03/pd-series-between-obtain-the-rows-with-values-lie-between-2-numbers/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/pd_series_between.py)
@@ -202,7 +202,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| snoop : Smart Print to Debug your Python Function | [link](https://mathdatasimplified.com/2021/05/28/snoop-smart-print-to-debug-your-python-function/) | [link](./https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/snoop_example.py)
+| snoop : Smart Print to Debug your Python Function | [link](https://mathdatasimplified.com/2021/05/28/snoop-smart-print-to-debug-your-python-function/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/snoop_example.py)
 | pytest benchmark: A Pytest Fixture to Benchmark your Code | [link](https://mathdatasimplified.com/2021/05/19/pytest-benchmark-a-pytest-fixture-to-benchmark-your-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/pytest_benchmark.py)
 | pytest.mark.parametrize: Test your Functions with Multiple Inputs | [link](https://mathdatasimplified.com/2021/06/09/pytest-mark-parametrize-test-your-functions-with-multiple-inputs/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/pytest_parametrize.py)
 | Pytest: Shows only Failed Tests | [link](https://mathdatasimplified.com/2021/01/27/pytest-shows-only-failed-tests/) 
@@ -316,7 +316,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
-| timeit on the Command Line: Measure Execution Time of Small Code Snippets | [link](https://mathdatasimplified.com/2021/05/25/timeit-on-the-command-line-measure-execution-time-of-small-code-snippets/) | [link](./https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/timeit_command_line.sh)
+| timeit on the Command Line: Measure Execution Time of Small Code Snippets | [link](https://mathdatasimplified.com/2021/05/25/timeit-on-the-command-line-measure-execution-time-of-small-code-snippets/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/timeit_command_line.sh)
 | Time Command: Track the Time it Takes to Execute a File in Linux | [link](https://mathdatasimplified.com/2021/01/24/time-command-track-the-time-it-takes-to-execute-a-file-in-linux/)
 | htop | [link](https://mathdatasimplified.com/2020/11/23/htop/)
 
@@ -416,4 +416,4 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | nbdime: Better Version Control for Jupyter Notebook | [link](https://mathdatasimplified.com/2021/06/04/nbdime-better-version-control-for-jupyter-notebook/) 
 | display in IPython: Display math equations in Jupyter Notebook | [link](https://mathdatasimplified.com/2021/03/01/display-in-ipython-display-math-equations-in-jupyter-notebook/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/notebook/display_math_equations.ipynb)
 | Reuse the notebook to run the same code across different data | [link](https://mathdatasimplified.com/2020/11/23/reuse-the-notebook-to-run-the-same-code-across-different-data/)
-| ngrok: Create a Public Server for your Jupyter Notebook in 1 Line of Code | [link](https://mathdatasimplified.com/2021/05/26/ngrok-create-a-public-server-for-your-jupyter-notebook-in-1-line-of-code/) | [link](./https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/ngrok_example.sh)
+| ngrok: Create a Public Server for your Jupyter Notebook in 1 Line of Code | [link](https://mathdatasimplified.com/2021/05/26/ngrok-create-a-public-server-for-your-jupyter-notebook-in-1-line-of-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/ngrok_example.sh)
