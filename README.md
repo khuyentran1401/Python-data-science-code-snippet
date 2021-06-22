@@ -194,6 +194,7 @@ Source code of Python and data science snippets posted daily at [Data Science Si
 | Difference between Numpy’s All and Any Methods | [link](https://mathdatasimplified.com/2021/03/31/difference-between-numpys-all-and-any-methods/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/numpy/any_all.py)
 | Double np.argsort: Get Rank of Values in an Array | [link](https://mathdatasimplified.com/2021/01/03/double-np-argsort-get-rank-of-values-in-an-array/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/numpy/double_np_argsort.py)
 | Get the index of the max value in a Numpy array | [link](https://mathdatasimplified.com/2020/12/15/get-the-index-of-the-max-value-in-a-numpy-array/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/numpy/np_argmax.py)
+| np.all: Test Whether All Elements along a Given Axis of a NumPy Array Evaluate to True | [link](https://mathdatasimplified.com/2021/06/22/np-all-test-whether-all-elements-along-a-given-axis-of-a-numpy-array-evaluate-to-true/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/np_array_all.py)
 
 
 <h1 id='data-science-tools'> Data Science Tools <img src="images/data-science.png"> </h1>
