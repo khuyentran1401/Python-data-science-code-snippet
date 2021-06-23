@@ -1,6 +1,7 @@
 # Python and Data Science Code Snippets
-Source code of Python and data science snippets posted daily at [Data Science Simplified](https://mathdatasimplified.com/).
+Source code of Python and data science snippets posted daily at [Data Science Simplified](https://mathdatasimplified.com/). You can receive these daily tips in your mailbox for free by [subscribing to the website](https://mathdatasimplified.com/).
 
+You can also get extra examples and practice questions for each tip by [being my offical Patron](https://www.patreon.com/khuyentran)
 # Contents
 * [Python Built-in Methods](#python)
 * [Pandas](#pandas)
