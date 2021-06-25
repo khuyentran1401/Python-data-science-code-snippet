@@ -370,6 +370,7 @@ You can also get extra examples and practice questions for each tip by [being my
 | Icecream: Adding a Datetime Stamp to Python print | [link](https://mathdatasimplified.com/2021/01/15/icecream-adding-a-datetime-stamp-to-python-print/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/icecream_datetime.py)
 | Icrecream: Never use print() to debug again | [link](https://mathdatasimplified.com/2021/01/01/icrecream-never-use-print-to-debug-again/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/icecream_example.py)
 | Pyfiglet: Make large and unique letters out of ordinary text in Python | [link](https://mathdatasimplified.com/2020/12/22/pyfiglet-make-large-and-unique-letters-out-of-ordinary-text-in-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/pyfiglet_example.py)
+| heartrate — Visualize the Execution of a Python Program in Real-Time | [link](https://mathdatasimplified.com/2021/06/25/heartrate-visualize-the-execution-of-a-python-program-in-real-time/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/heart_rate.py)
 
 ### Tracking
 
