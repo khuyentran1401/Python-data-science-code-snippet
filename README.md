@@ -412,6 +412,7 @@ You can also get extra examples and practice questions for each tip by [being my
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Box: Using Dot Notation to Access Keys in a Python Dictionary | [link](https://mathdatasimplified.com/2021/03/02/box-using-dot-notation-to-access-keys-in-a-python-dictionary/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/box_example.py)
+| decorator module: Write Shorter Python Decorators without Nested Functions | [link](https://mathdatasimplified.com/2021/03/27/decorator-module-write-shorter-python-decorators-without-nested-functions/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/decorator_module.py)
 | virtualenv-clone: Create a Copy of a Virtual Environment | [link](https://mathdatasimplified.com/2021/02/01/virtualenv-clone-create-a-copy-of-a-virtual-environment/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/virtualenv_clone.sh)
 
 <h1 id='jupyter-notebook'> Jupyter Notebook <img src="images/notebook.png"> </h1>
