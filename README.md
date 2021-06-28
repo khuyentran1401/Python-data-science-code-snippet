@@ -2,6 +2,9 @@
 Source code of Python and data science snippets posted daily at [Data Science Simplified](https://mathdatasimplified.com/). You can receive these daily tips in your mailbox for free by [subscribing to the website](https://mathdatasimplified.com/).
 
 You can also get extra examples and practice questions for each tip by [being my offical Patron](https://www.patreon.com/khuyentran)
+
+To get access to these daily tips on the command line, install [python-snippet](https://github.com/khuyentran1401/python_snippet).
+
 # Contents
 * [Python Built-in Methods](#python)
 * [Pandas](#pandas)
