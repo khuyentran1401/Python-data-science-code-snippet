@@ -6,5 +6,3 @@ df = pd.DataFrame({'pricel': [1, 2, 3],
 
 mask = df.columns.str.startswith('price')
 print(df.loc[:, mask])
-
-print(df.loc[:, mask])
