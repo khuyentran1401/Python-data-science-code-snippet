@@ -58,6 +58,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Stop using = operator to create a copy of a Python list. Use copy method instead | [link](https://mathdatasimplified.com/2021/01/09/stop-using-operator-to-create-a-copy-of-a-python-list-use-copy-method-instead/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/copy_method.py) 
 | itertools.combinations: A better way to iterate through a pair of values in a Python list | [link](https://mathdatasimplified.com/2020/12/12/itertools-combinations-a-better-way-to-iterate-through-a-pair-of-values-in-a-python-list/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/itertools_combinations_example.py)
  | Enumerate | [link](https://mathdatasimplified.com/2020/11/23/enumerate/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/enumerate_example.py)
+ | set.intersection: Find the Intersection Between 2 Sets | [link](https://mathdatasimplified.com/2021/06/29/set-intersection-find-the-intersection-between-2-sets/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/set_intersection.py)
 
 ### Tuple
 
