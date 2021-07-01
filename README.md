@@ -100,6 +100,7 @@ To get access to these daily tips on the command line, install [python-snippet](
  | getattr: a Better Way to Get the Attribute of a Class | [link](https://mathdatasimplified.com/2021/02/23/getattr-a-better-way-to-get-the-attribute-of-a-class/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/getattr_example.py)
  | `__call__`: You can Call your Class Instance like a Function. Here is how | [link](https://mathdatasimplified.com/2021/01/22/__call__-you-can-call-your-class-instance-like-a-function-here-is-how/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/__call__example.py)
  | Static method: use the function without adding the attributes required for a new instance | [link](https://mathdatasimplified.com/2020/11/23/static-method-use-the-function-without-adding-the-attributes-required-for-a-new-instance/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/staticmethod_example.py)
+ | Property Decorator: A Pythonic Way to Use Getters and Setters | [link](https://mathdatasimplified.com/2021/07/01/property-decorator-a-pythonic-way-to-use-getters-and-setters/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/property_decorator.py)
 
 ### Files
 
