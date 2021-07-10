@@ -230,6 +230,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Autoscraper | [link](https://mathdatasimplified.com/2020/11/23/autoscraper/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/autoscraper_example.py)
 | Extract series data from various Internet sources directly into a pandas DataFrame | [link](https://mathdatasimplified.com/2020/11/23/extract-series-data-from-various-internet-sources-directly-into-a-pandas-dataframe/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/extract_various_data.py)
 | Compare the similar features between 2 different datasets | [link](https://mathdatasimplified.com/2020/11/23/compare-the-similar-features-between-2-different-datasets/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/compare_2_datasets)
+| newspaper3k: Extract Meaningful Information From an Articles in 2 Lines of Code | [link](https://mathdatasimplified.com/2021/03/23/newspaper3k-extract-meaningful-information-from-an-articles-in-2-lines-of-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/data_science_tools/newspaper3k.ipynb)
 
 ### Feature extraction
 
