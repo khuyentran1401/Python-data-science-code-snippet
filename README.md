@@ -166,6 +166,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Assign Values to Multiple New Columns | [link](https://mathdatasimplified.com/2020/11/23/assign-values-to-multiple-new-columns/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/df_assign.py)
 | Reduce pd.DataFrame’s Memory | [link](https://mathdatasimplified.com/2020/11/23/reduce-pd-dataframes-memory/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/reduce_memory.py)
 | pd.DataFrame.explode: Transform Each Element in an Iterable to a Row | [link](https://mathdatasimplified.com/2021/07/08/pd-dataframe-explode-transform-each-element-in-an-iterable-to-a-row/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_explode.py)
+| pandas.cut: Bin a DataFrame’s values into Discrete Intervals | [link](https://mathdatasimplified.com/2021/07/13/pandas-cut-bin-a-dataframes-values-into-discrete-intervals/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/pd_cut.py)
 
 ### Get Values
 
