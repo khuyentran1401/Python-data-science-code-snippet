@@ -204,6 +204,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Get the index of the max value in a Numpy array | [link](https://mathdatasimplified.com/2020/12/15/get-the-index-of-the-max-value-in-a-numpy-array/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/numpy/np_argmax.py)
 | np.all: Test Whether All Elements along a Given Axis of a NumPy Array Evaluate to True | [link](https://mathdatasimplified.com/2021/06/22/np-all-test-whether-all-elements-along-a-given-axis-of-a-numpy-array-evaluate-to-true/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/np_array_all.py)
 | array-to-latex: Turn a Numpy Array into Latex | [link](https://mathdatasimplified.com/2021/06/23/array_to_latex-turn-a-numpy-array-into-latex/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/array_to_latex_example.ipynb)
+| Numpy Comparison Operators | [link](https://mathdatasimplified.com/2021/07/15/numpy-comparison-operators/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/np_comparison.py)
 
 
 <h1 id='data-science-tools'> Data Science Tools <img src="images/data-science.png"> </h1>
