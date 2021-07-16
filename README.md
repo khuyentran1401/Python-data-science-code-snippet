@@ -246,6 +246,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Maya: Convert the string to datetime automatically | [link](https://mathdatasimplified.com/2020/11/23/maya-convert-the-string-to-datetime-automatically/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/maya_example.py)
 | Select the features by their relevance | [link](https://mathdatasimplified.com/2020/11/23/select-the-features-by-their-relevance/) 
 | Extract holiday from date column | [link](https://mathdatasimplified.com/2020/11/23/extract-holiday-from-date-column/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/extract_holidays.py)
+| fastai’s cont_cat_split: Get a DataFrame’s Continuous and Categorical Variables Based on Their Cardinality | [link](https://mathdatasimplified.com/2021/07/16/fastais-cont_cat_split-get-a-dataframes-continuous-and-categorical-variables-based-on-their-cardinality/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/data_science_tools/fastai_cont_cat_split.py)
 
 ### Visualization
 
