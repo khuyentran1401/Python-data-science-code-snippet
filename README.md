@@ -407,6 +407,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | knockknock: Receive an email when your code finishes executing | [link](https://mathdatasimplified.com/2020/11/23/knockknock-receive-an-email-when-your-code-finishes-executing/)| [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/knockknock_example.py)
 | snsscrape: Scrape Social Networking Services in Python | [link](https://mathdatasimplified.com/2021/06/30/snsscrape-scrape-social-networking-services-in-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/snsscrape_example.sh)
 | Typer: Build a Command-Line Interface in a Few Lines of Code | [link](https://mathdatasimplified.com/2021/07/14/typer-build-a-command-line-interface-in-a-few-lines-of-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/box_example.py)
+| yarl: Create and Extract Elements from a URL Using Python | [link](https://mathdatasimplified.com/2021/07/21/yarl-create-and-extract-elements-from-a-url-using-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/yarl_example.py)
 
 ### Git and GitHub
 
