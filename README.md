@@ -70,6 +70,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | Defaultdict: Return a default value when a key is not available | [link](https://mathdatasimplified.com/2020/12/09/how-to-return-a-default-value-when-a-key-is-not-in-python-dictionary/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/collections_defaultdict.py)
+| Defaultdict: Create a Dictionary with Values that are List | [link](https://mathdatasimplified.com/2021/07/22/defaultdict-create-a-dictionary-with-the-values-that-are-list/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/defaultdict_example.py)
 | Ordered dictionary in Python | [link](https://mathdatasimplified.com/2020/11/23/ordered-dictionary-in-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/collections_ordereddict.py)
 
 ### Datetime
@@ -341,7 +342,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Python Shell as an Calculator: Grab the Last Output Using “_” | [link](https://mathdatasimplified.com/2021/03/16/python-shell-as-an-calculator-grab-the-last-output-using-_/)
 | Find version of a Python library using pip list and grep | [link](https://mathdatasimplified.com/2020/12/04/find-version-of-a-python-library-using-pip-list-and-grep/)
 | Conda rollback to the last revision | [link](https://mathdatasimplified.com/2020/11/23/conda-rollback-to-the-last-revision/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/conda_rollback.sh)
-| How to Check Whether a Library is Installed | [link](https://mathdatasimplified.com/2020/11/23/1006/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/check_if_library_is_installed.sh)
+| How to Check Whether a Library is Installed | [link](https://mathdatasimplified.com/2020/11/23/1006/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/check_if_library_is_installed.sh
 
 ### Prettify Terminal
 
