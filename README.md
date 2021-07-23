@@ -185,6 +185,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Exclude Outliers | [link](https://mathdatasimplified.com/2020/11/23/exclude-outliers/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/exclude_outliers.py)
 | Pandas DataFrame Get Data in a Year Range | [link](https://mathdatasimplified.com/2020/11/23/pandas-dataframe-get-data-in-a-year-range/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/get_data_in_year_range.py)
 | pd.reindex: Replace the Values of the Missing Dates with 0 | [link](https://mathdatasimplified.com/2021/07/20/pd-reindex-replace-the-values-of-the-missing-dates-with-0/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/pd_reindex.py)
+| Select DataFrame Rows Before or After a Specific Date | [link](https://mathdatasimplified.com/2021/07/23/select-dataframe-rows-before-or-after-a-specific-date/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_datetime_comparison.py)
 
 ### Testing
 
