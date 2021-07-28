@@ -422,6 +422,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | github1s: Read GitHub Code with VS Code on your Browser in One Second | [link](https://mathdatasimplified.com/2021/02/15/github1s-read-github-code-with-vs-code-on-your-browser-in-one-second/)
 | PyGithub: Manage your Github resources using Python | [link](https://mathdatasimplified.com/2020/12/24/pygithub-manage-your-github-resources-using-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/cool_tools/pygithub_example.py)
 | Astral: Organize your Github stars with ease | [link](https://mathdatasimplified.com/2020/12/18/astral-organize-your-github-stars-with-ease/)
+| pip install -e: Install Forked GitHub Repository using Pip | [link](https://mathdatasimplified.com/2021/07/28/pip-install-e-install-forked-github-repository-using-pip/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/install_forked.sh)
 
 ### Alternative Approach
 
