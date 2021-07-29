@@ -1,8 +1,8 @@
-import pandas as pd 
+import pandas as pd
 
-df = pd.DataFrame({'a': [1, 2, 3, 4], 'b': [2, 3, 4, 5]})
+df = pd.DataFrame({"a": [1, 2, 3, 4], "b": [2, 3, 4, 5]})
 
-print(df.agg({'a': ['sum', 'mean'], 'b': ['min', 'max']}))
+print(df.agg({"a": ["sum", "mean"], "b": ["min", "max"]}))
 
 """
          a    b
