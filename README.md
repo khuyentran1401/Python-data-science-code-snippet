@@ -156,6 +156,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Title        | Explanation | Code  |
 | ------------- |:-------------:| :-----:|
 | pd.DataFrame.agg: Aggregate over Columns or Rows Using Multiple Operations | [link](https://mathdatasimplified.com/2021/05/09/pd-dataframe-agg-aggregate-over-columns-or-rows-using-multiple-operations/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/pd_dataframe_agg.py)
+| pandas.DataFrame.agg: Apply Different Aggregations to Different Columns | [link](https://mathdatasimplified.com/2021/07/29/pandas-dataframe-agg-apply-different-aggregations-to-different-columns/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_agg.py)
 | DataFrame.pipe: Increase the Readability of your Code when Applying Multiple Functions to a DataFrame | [link](https://mathdatasimplified.com/2021/04/20/dataframe-pipe-increase-the-readability-of-your-code-when-applying-multiple-functions-to-a-dataframe/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/dataframe_pipe.py)
 | pd.Series.map: Change Values of a Pandas Series Using a Dictionary | [link](https://mathdatasimplified.com/2021/05/21/pd-series-map-change-values-of-a-pandas-series-using-a-dictionary/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/any_example.py)
 | pd.Series.str: Manipulate Text Data in a pandas Series | [link](https://mathdatasimplified.com/2021/04/03/pd-series-str-manipulate-text-data-in-a-pandas-series/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/pd_series_str.py)
@@ -277,6 +278,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Extract a contiguous sequence of 2 words | [link](https://mathdatasimplified.com/2020/11/23/extract-a-contiguous-sequence-of-2-words/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/spacy_ngram.py)
 | Detect the “almost similar” articles | [link](https://mathdatasimplified.com/2020/11/23/detect-the-almost-similar-articles/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/difflib_example.py)
 | Convert number to words | [link](https://mathdatasimplified.com/2020/11/23/convert-number-to-words/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/convert_number_to_words.py)
+| texthero.clean: Preprocess Text in One Line of Code | [link](https://mathdatasimplified.com/2021/07/30/texthero-clean-preprocess-text-in-one-line-of-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/data_science_tools/texthero_examples.py)
 
 ### Tools for Best Python Practices
 
