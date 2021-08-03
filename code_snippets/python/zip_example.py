@@ -1,9 +1,8 @@
-l = [1, 2, 3, 4]
-string = 'abcd'
-combinations = list(zip(l, string))
+nums = [1, 2, 3, 4]
+string = "abcd"
+combinations = list(zip(nums, string))
 for comb in combinations:
     print(comb)
-
 """ 
 (1, 'a')
 (2, 'b')
