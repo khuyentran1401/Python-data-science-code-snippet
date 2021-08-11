@@ -351,7 +351,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Find version of a Python library using pip list and grep | [link](https://mathdatasimplified.com/2020/12/04/find-version-of-a-python-library-using-pip-list-and-grep/)
 | Conda rollback to the last revision | [link](https://mathdatasimplified.com/2020/11/23/conda-rollback-to-the-last-revision/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/conda_rollback.sh)
 | How to Check Whether a Library is Installed | [link](https://mathdatasimplified.com/2020/11/23/1006/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/check_if_library_is_installed.sh)
-
+| pydash.chunk: Split Elements in a List into Groups of n Items | [link](https://mathdatasimplified.com/2021/08/11/pydash-chunk-split-elements-in-a-list-into-groups-of-n-items/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/pydash_chunk.py)
 ### Prettify Terminal
 
 | Title        | Explanation | Code  |
