@@ -199,6 +199,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 
 
 
+
 <h1 id='numpy'> Numpy <img src="images/numpy.png"> </h1>
 
 | Title        | Explanation | Code  |
@@ -214,6 +215,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | array-to-latex: Turn a Numpy Array into Latex | [link](https://mathdatasimplified.com/2021/06/23/array_to_latex-turn-a-numpy-array-into-latex/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/array_to_latex_example.ipynb)
 | Numpy Comparison Operators | [link](https://mathdatasimplified.com/2021/07/15/numpy-comparison-operators/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/np_comparison.py)
 | NumPy.linspace: Get Evenly Spaced Numbers Over a Specific Interval | [link](https://mathdatasimplified.com/2021/08/05/numpy-linspace-get-evenly-spaced-numbers-over-a-specific-interval/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/np_linspace.py)
+| NumPy.testing.assert_almost_equal: Check If Two Arrays Are Equal up to a Certain Precision | [link](https://mathdatasimplified.com/2021/08/12/numpy-testing-assert_almost_equal-check-if-two-arrays-are-equal-up-to-a-certain-precision/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/numpy/numpy_testing_almost_equal.py)
 
 
 <h1 id='data-science-tools'> Data Science Tools <img src="images/data-science.png"> </h1>
