@@ -317,6 +317,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Pipeline + GridSearchCV: Prevent Data Leakage when Scaling the Data | [link](https://mathdatasimplified.com/2020/12/27/pipeline-gridsearchcv-prevent-data-leakage-when-scaling-the-data/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/pipeline_gridsearchcv.py)
 | Decompose high dimensional data into two or three dimensions | [link](https://mathdatasimplified.com/2020/11/23/decompose-high-dimensional-data-into-two-or-three-dimensions/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/decompose_high_dementional_data.ipynb)
 | Cross Validation with Time Series | [link](https://mathdatasimplified.com/2020/11/23/cross-validation-with-time-series/)
+| squared=False: Get RMSE from Sklearn’s mean_squared_error method | [link](https://mathdatasimplified.com/2021/08/13/squaredfalse-get-rmse-from-sklearns-mean_squared_error-method/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/data_science_tools/sklearn_rmse.py)
 
 <h1 id='terminal'> Terminal <img src="images/command-window.png"> </h1>
 
