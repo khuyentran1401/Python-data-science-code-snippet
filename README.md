@@ -59,6 +59,8 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Enumerate | [link](https://mathdatasimplified.com/2020/11/23/enumerate/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/enumerate_example.py)
 | set.intersection: Find the Intersection Between 2 Sets | [link](https://mathdatasimplified.com/2021/06/29/set-intersection-find-the-intersection-between-2-sets/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/set_intersection.py)
 | Difference between list append and list extend | [link](https://mathdatasimplified.com/2021/07/27/difference-between-list-append-and-list-extend/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/list_extend.py)
+| map method: Apply a Function to Each Item of an Iterable | [link](https://mathdatasimplified.com/2021/08/19/map-method-apply-a-function-to-each-item-of-an-iterable/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/list_map.py)
+| Why Should you Rewrite a For-Loop as a List Comprehension? | [link](https://mathdatasimplified.com/2021/08/17/why-should-you-rewrite-a-for-loop-as-a-list-comprehension/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/list_comprehension.py)
 
 ### Tuple
 
@@ -171,6 +173,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Reduce pd.DataFrame’s Memory | [link](https://mathdatasimplified.com/2020/11/23/reduce-pd-dataframes-memory/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/pandas/reduce_memory.py)
 | pd.DataFrame.explode: Transform Each Element in an Iterable to a Row | [link](https://mathdatasimplified.com/2021/07/08/pd-dataframe-explode-transform-each-element-in-an-iterable-to-a-row/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_explode.py)
 | pandas.cut: Bin a DataFrame’s values into Discrete Intervals | [link](https://mathdatasimplified.com/2021/07/13/pandas-cut-bin-a-dataframes-values-into-discrete-intervals/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/pd_cut.py)
+| Forward Fill in Pandas: Use the Previous Value to Fill the Current Missing Value | [link](https://mathdatasimplified.com/2021/08/20/forward-fill-use-the-previous/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_fillna.py)
 
 ### Get Values
 
@@ -308,6 +311,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | ------------- |:-------------:| :-----:| 
 | rich-dataframe: Create Animated and Colorful Pandas Dataframe | [link](https://mathdatasimplified.com/2021/02/17/rich-dataframe-create-animated-and-colorful-pandas-dataframe/) 
 | tqdm: Add Progress Bar to your Pandas Apply | [link](https://mathdatasimplified.com/2020/12/30/tqdm-add-progress-bar-to-your-pandas-apply/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/tqdm_example.py)
+| tqdm.set_description: Set a Description for Your Progress Bar | [link](https://mathdatasimplified.com/2021/08/18/tqdm-set_description-set-a-description-for-your-progress-bar/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/tqdm_set_description.py)
 
 ### Machine Learning
 
