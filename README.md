@@ -425,6 +425,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Typer: Build a Command-Line Interface in a Few Lines of Code | [link](https://mathdatasimplified.com/2021/07/14/typer-build-a-command-line-interface-in-a-few-lines-of-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/box_example.py)
 | yarl: Create and Extract Elements from a URL Using Python | [link](https://mathdatasimplified.com/2021/07/21/yarl-create-and-extract-elements-from-a-url-using-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/yarl_example.py)
 | interrogate: Check your Python Code for Missing Docstrings | [link](https://mathdatasimplified.com/2021/08/06/interrogate-check-your-python-code-for-missing-docstrings/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/interrogate_example.py)
+| mypy: Static Type Checker for Python | [link](https://mathdatasimplified.com/2021/08/23/mypy-static-type-checker-for-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/cool_tools/mypy_example.py)
 
 ### Git and GitHub
 
