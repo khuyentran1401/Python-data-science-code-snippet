@@ -174,6 +174,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | pd.DataFrame.explode: Transform Each Element in an Iterable to a Row | [link](https://mathdatasimplified.com/2021/07/08/pd-dataframe-explode-transform-each-element-in-an-iterable-to-a-row/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_explode.py)
 | pandas.cut: Bin a DataFrame’s values into Discrete Intervals | [link](https://mathdatasimplified.com/2021/07/13/pandas-cut-bin-a-dataframes-values-into-discrete-intervals/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/pd_cut.py)
 | Forward Fill in Pandas: Use the Previous Value to Fill the Current Missing Value | [link](https://mathdatasimplified.com/2021/08/20/forward-fill-use-the-previous/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_fillna.py)
+| pandas.pivot_table: Turn Your DataFrame Into a Pivot Table | [link](https://mathdatasimplified.com/2021/08/24/pandas-pivot_table-turn-your-dataframe-into-a-pivot-table/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/pandas/df_pivot.py)
 
 ### Get Values
 
