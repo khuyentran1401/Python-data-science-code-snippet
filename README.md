@@ -23,7 +23,7 @@ To get access to these daily tips on the command line, install [python-snippet](
  | fractions: Get Numerical Results in Fractions instead of Decimals | [link](https://mathdatasimplified.com/2021/02/27/fractions-get-numerical-results-in-fractions-instead-of-decimals/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/fractions_example.py)
 | How to Use Underscores to Format Large Numbers in Python | [link](https://mathdatasimplified.com/2021/01/12/how-to-use-underscores-to-format-large-numbers-in-python/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/underscore_large_number.py)
  | Confirm whether a variable is a number | [link](https://mathdatasimplified.com/2020/11/23/confirm-whether-a-variable-is-a-number/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/check_if_number.py)
- | Get a Division, Floor Division, And The Remainder of a Division in Python | [link](https://mathdatasimplified.com/2021/08/31/get-a-division-floor-division-and-the-remainder-of-a-division-in-python/) | [link]
+ | Get a Division, Floor Division, And The Remainder of a Division in Python | [link](https://mathdatasimplified.com/2021/08/31/get-a-division-floor-division-and-the-remainder-of-a-division-in-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/division_operators.py)
 
 ### Boolean
 
