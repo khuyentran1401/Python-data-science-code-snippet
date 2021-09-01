@@ -272,6 +272,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | D-Tale: A Python Library to Visualize and Analyze your Data Without Code | [link](https://mathdatasimplified.com/2021/05/16/d-tale-a-python-library-to-visualize-and-analyze-your-data-without-code/)
 | Graphviz: Create a Flowchart to Capture your Ideas in Python | [link](https://mathdatasimplified.com/2021/02/06/graphviz-create-a-flowchart-to-capture-your-ideas-in-python/) |[link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/terminal/environment_variables)
 | Create an interactive map in Python | [link](https://mathdatasimplified.com/2020/12/03/create-an-interactive-map-in-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/folium_example.ipynb)
+| dtreeviz: Visualize and Interpret a Decision Tree Model | [link](https://mathdatasimplified.com/2021/09/01/dtreeviz-visualize-and-interpret-a-decision-tree-model/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/data_science_tools/dtreeviz_example.py)
 
 ### Sharing and Downloading
 
