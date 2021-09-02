@@ -96,6 +96,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Return Multiple Values from a Function Using Python Dictionary | [link](https://mathdatasimplified.com/2020/12/11/return-multiple-values-from-a-function-using-python-dictionary/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/return_multiple_values_with_dictionary.py)
 | Decorator in Python| [link](https://mathdatasimplified.com/2020/11/25/decorator-in-python/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/python/decorator_example.py)
 | functools.partial: Generate a New Function with Fewer Arguments | [link](https://mathdatasimplified.com/2021/07/06/functools-partial-generate-a-new-function-with-fewer-arguments/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/partial_function.py)
+| singledispatch: Call Another Function Based on the Type of the Current Function’s Argument | [link](https://mathdatasimplified.com/2021/09/02/singledispatch-call-another-function-based-on-the-type-of-the-current-functions-argument/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/python/singledispatch_example.py)
 
 ### Classes
 
