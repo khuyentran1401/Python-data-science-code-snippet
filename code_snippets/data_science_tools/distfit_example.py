@@ -7,5 +7,5 @@ X = np.random.normal(0, 3, 1000)
 dist = distfit()
 
 # Find best theoretical distribution for empirical data X
-dist.fit_transform(X)
+distribution = dist.fit_transform(X)
 dist.plot()
