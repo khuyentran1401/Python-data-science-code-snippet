@@ -297,6 +297,7 @@ To get access to these daily tips on the command line, install [python-snippet](
 | Detect the “almost similar” articles | [link](https://mathdatasimplified.com/2020/11/23/detect-the-almost-similar-articles/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/difflib_example.py)
 | Convert number to words | [link](https://mathdatasimplified.com/2020/11/23/convert-number-to-words/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/tree/master/code_snippets/data_science_tools/convert_number_to_words.py)
 | texthero.clean: Preprocess Text in One Line of Code | [link](https://mathdatasimplified.com/2021/07/30/texthero-clean-preprocess-text-in-one-line-of-code/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/data_science_tools/texthero_examples.py)
+| wordfreq: Estimate the Frequency of a Word in 36 Languages | [link](https://mathdatasimplified.com/2021/09/10/wordfreq-estimate-the-frequency-of-a-word-in-36-languages/) | [link](https://github.com/khuyentran1401/Python-data-science-code-snippet/blob/master/code_snippets/data_science_tools/wordfreq_example.py)
 
 ### Tools for Best Python Practices
 
